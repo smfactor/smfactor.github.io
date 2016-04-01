@@ -3,11 +3,11 @@ layout: page
 title: "Samuel Factor"
 subtitle: "PhD Student, The University of Texas at Austin"
 bigimg:
-  - "/img/big-imgs/heic0917aasc.jpg" : "Credit: NASA/ESO"
-  - "/img/big-imgs/heic0917absc.jpg" : "Credit: NASA/ESO"
-  - "/img/big-imgs/alma-starry-night.jpg" : "Credit: ESO"
-  - "/img/big-imgs/hltau.jpg" : "Credit: ALMA"
-  - "/img/big-imgs/SMA.jpg" : "Credit: CfA"
+  - "/img/big-imgs/heic0917aasc.jpg" : "The Orion ''Proplyds'' , Credit: NASA/ESO"
+  - "/img/big-imgs/heic0917absc.jpg" : "Orion, Credit: NASA/ESO"
+  - "/img/big-imgs/alma-starry-night.jpg" : "ALMA, Credit: ESO"
+  - "/img/big-imgs/hltau.jpg" : "HL Tau, Credit: ALMA"
+  - "/img/big-imgs/SMA.jpg" : "SMA, Credit: CfA"
 ---
 
 I am a 1st year graduate student in the Astronomy department at the University of Texas at Austin. I work with Professor Adam Kraus on direct imaging of extrasolar planets. I recieved my B.A. in physics and computer science from Wesleyan University in 2014 and my M.A. in astronomy in 2015 as part of Wesleyan's 5 year combined BA/MA program. 
