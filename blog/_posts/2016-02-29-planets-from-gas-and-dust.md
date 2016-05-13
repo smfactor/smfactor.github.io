@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What proof do you have that planets are made from gas and dust?
+subtitle: reposted from askanastronomer.org
 author: Sam Factor
 tags: planets
 thumbnail: /img/blog/ppdisk_thumb.jpg
@@ -9,8 +10,6 @@ thumbnail: /img/blog/ppdisk_thumb.jpg
 <img src="/img/blog/ppdisk.jpg">
 <div class="caption">Artist's conception of a very young star encircled by a disk of gas and dust, the raw materials from which rocky planets such as Earth are thought to form. Credit: NASA/JPL-Caltech, <a href="http://www.nasa.gov/mission_pages/spitzer/multimedia/20080313c.html">Source</a>.</div>
 </div>
-
-**Reposted from [askanastronomer.org](http://askanastronomer.org).**
 
 **What proof do you have that planets are made from gas and dust?**
 
