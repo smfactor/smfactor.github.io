@@ -6,6 +6,9 @@ author: Sam Factor
 tags: planets
 thumbnail: /img/blog/mars-solar-wind_thumb.jpg
 ---
+
+See the origional post (here)[http://askanastronomer.org/planets/2015/11/20/can-we-create-a-magnetic-field-for-mars/].
+
 <div class="image">
 <img src="/img/blog/mars-solar-wind.jpg" alt="A solar storm hitting Mars and stripping the atmosphere">
 <div class="caption">Artist's rendering of a solar storm hitting Mars and the planet's upper atmosphere. Credit: NASA/GSFC, <a href="http://mars.nasa.gov/news/whatsnew/index.cfm?FuseAction=ShowNews&NewsID=1869">Source</a>.</div>
