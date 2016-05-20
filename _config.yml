@@ -87,6 +87,9 @@ permalink: /:year-:month-:day-:title/
 paginate: 5
 paginate_path: "/blog/posts/page:num/"
 
+kramdown:
+  input: GFM
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
