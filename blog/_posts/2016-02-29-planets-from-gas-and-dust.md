@@ -7,7 +7,7 @@ tags: planets
 thumbnail: /img/blog/ppdisk_thumb.jpg
 ---
 
-See the origional post (here)[http://askanastronomer.org/planets/2016/02/29/planets-from-gas-and-dust/].
+See the origional post [here](http://askanastronomer.org/planets/2016/02/29/planets-from-gas-and-dust/).
 
 <div class="image">
 <img src="/img/blog/ppdisk.jpg">

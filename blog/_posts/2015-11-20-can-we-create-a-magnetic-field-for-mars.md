@@ -7,7 +7,7 @@ tags: planets
 thumbnail: /img/blog/mars-solar-wind_thumb.jpg
 ---
 
-See the origional post (here)[http://askanastronomer.org/planets/2015/11/20/can-we-create-a-magnetic-field-for-mars/].
+See the origional post [here](http://askanastronomer.org/planets/2015/11/20/can-we-create-a-magnetic-field-for-mars/).
 
 <div class="image">
 <img src="/img/blog/mars-solar-wind.jpg" alt="A solar storm hitting Mars and stripping the atmosphere">
