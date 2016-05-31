@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Samuel Factor"
+title: "Samuel M. Factor"
 subtitle: "Astronomy PhD Student, The University of Texas at Austin"
 bigimg:
   - "/img/big-imgs/heic0917aasc.jpg" : "The Orion ''Proplyds'' , Credit: NASA/ESO"
