@@ -17,6 +17,7 @@ Check out my answers and ask your own question at [askanastronomer.org](http://a
 
 ## Posters and Presentations
 
+* Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions (poster), *Sagan Exoplanet Summer Workshop*, July 2016, Pasadena, CA
 * ALMA Observations of Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula Cluster (poster), *Frank N. Bash Symposium*, Oct 2015, Austin, TX
 * Characterizing a Young Protoplanetary Disk in the Orion Nebula Cluster (poster number 349.06), *American Astronomical Society Meeting #225*, Jan 2015, Seattle, WA
 
