@@ -7,8 +7,6 @@ tags: planets
 thumbnail: /img/blog/ppdisk_thumb.jpg
 ---
 
-See the origional post [here](http://askanastronomer.org/planets/2016/02/29/planets-from-gas-and-dust/).
-
 <div class="image">
 <img src="/img/blog/ppdisk.jpg">
 <div class="caption">Artist's conception of a very young star encircled by a disk of gas and dust, the raw materials from which rocky planets such as Earth are thought to form. Credit: NASA/JPL-Caltech, <a href="http://www.nasa.gov/mission_pages/spitzer/multimedia/20080313c.html">Source</a>.</div>
@@ -27,3 +25,4 @@ So to sum up, we know that planets are made from gas and dust because we detect 
 Sam Factor<br>
 *UT Austin*
 
+See the origional post [here](http://askanastronomer.org/planets/2016/02/29/planets-from-gas-and-dust/).
