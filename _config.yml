@@ -53,6 +53,7 @@ author:
   github: smfactor # eg. daattali
   twitter: thexfactorx # eg. daattali
   linkedin: in/samuelfactor # eg. "pub/dean-attali/8/946/143"
+  reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
@@ -70,6 +71,7 @@ footer-links-active:
   google-plus: false
   github: true
   linkedin: true 
+  reddit: false
   xing: false
   stackoverflow: false
   snapchat: false
@@ -100,7 +102,7 @@ google_analytics: "UA-71164810-1"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 100
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
