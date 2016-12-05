@@ -19,7 +19,7 @@ Check out my answers and ask your own question at [askanastronomer.org](http://a
 ## Posters and Presentations
 
 * Why git is awesome and why we should all be using it ([slides](git_GSPS_11-04-16.pdf)), [*UT Austin Graduate Student Postdoc Seminar*](https://stevans.github.io/gsps/), November 2016, Austin, TX 
-* Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions (poster), *Sagan Exoplanet Summer Workshop*, July 2016, Pasadena, CA
-* ALMA Observations of Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula Cluster (poster), *Frank N. Bash Symposium*, Oct 2015, Austin, TX
-* Characterizing a Young Protoplanetary Disk in the Orion Nebula Cluster (poster number 349.06), *American Astronomical Society Meeting #225*, Jan 2015, Seattle, WA
+* Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](SSWposter.pdf)), [*Sagan Exoplanet Summer Workshop*](http://nexsci.caltech.edu/workshop/2016), July 2016, Pasadena, CA
+* ALMA Observations of Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula Cluster ([poster](WesPoster.pdf)), *Frank N. Bash Symposium*, Oct 2015, Austin, TX
+* Characterizing a Young Protoplanetary Disk in the Orion Nebula Cluster ([poster](WesPoster.pdf) number 349.06, [abstract](http://adsabs.harvard.edu/abs/2015AAS...22534906F)), *225th Meeting of the American Astronomical Society*, Jan 2015, Seattle, WA
 

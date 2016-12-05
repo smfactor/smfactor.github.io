@@ -4,6 +4,8 @@ title: About me
 subtitle: Outside of School
 ---
 
+Check out an interview I did with the Wesleyan Newsletter [here](http://newsletter.blogs.wesleyan.edu/2015/05/19/samfactor/).
+
 I enjoy hiking and camping in what little free time I have. I also dabble in astrophotography. Below are a few pictures I took. (More to come!)
 
 The Orion Nebula from Mauna Kea VIS, HI (Nikon D5200 300mm f/6.3 59x2sec ISO:6400)
@@ -17,4 +19,3 @@ New England Rowing Championships, 2015, JV 8+ (Stroke Seat)
 ![NERC](../img/NERC.jpg "New England Rowing Championships 2015 JV 8+")
 Head of the Charles, 2014, Collegiate 8+ (2 Seat)
 ![HOCR](../img/HOCR.png "Head of the Charles 2014 Collegiate 8+")
-
