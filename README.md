@@ -7,6 +7,7 @@ This template is built on top of [Jekyll](http://jekyllrb.com/) and can be used 
 Feel free to modify this in any way you'd like, but the origional author would appreciate it if you don't remove the attribution to Beautiful Jekyll.
 
 If you need a bit of help or have comments, feel free to [contact the oritional author](http://deanattali.com/aboutme#contact). Even if you don't have anything important to say but found this useful, he'd love to [hear about it](http://deanattali.com/aboutme#contact). Lastly, if you like this theme, please consider [supporting him with a small donation](http://deanattali.com/aboutme#feed-meeee) if you want to make me extra happy. :)
+
 =======
 > *Copyright 2016 [Dean Attali](http://deanattali.com). Licensed under the MIT license.*
 
