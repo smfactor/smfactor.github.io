@@ -11,14 +11,17 @@ Check out my answers and ask your own question at [askanastronomer.org](http://a
 
 ## Publications
 
-* **S. Factor**, A. M. Hughes, K. Flaherty, R. K. Mann, J. Di Francesco, J. P. Williams, L. Ricci, B. C. Matthews, J. Bally, D. Johnstone, “ALMA Observations of Asymmetric Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula,” *AAS Journals*, submitted September 2016
+* **S. Factor**, A. M. Hughes, K. Flaherty, R. K. Mann, J. Di Francesco, J. P. Williams, L. Ricci, B. C. Matthews, J. Bally, D. Johnstone 2017, AJ, 153, 233
+
+“ALMA Observations of Asymmetric Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula”
+
 * J. M. Lee, **S. Factor**, Z. Lin, I. Vitebskiy, F. Ellis, T. Kottos, “[Reconfigurable directional lasing modes in cavities with generalized $$\mathcal{P}\tilde{\mathcal{T}}$$ Symmetry](http://adsabs.harvard.edu/abs/2014PhRvL.112y3902L),” *Phys. Rev. Lett.*, vol 112, p. 253902, Jun 2014
 * M. Chitsazi, **S. Factor**, J. Schindler, H. Ramezani, F. M. Ellis and T. Kottos, “[Experimental observation of lasing shutdown via asymmetric gain](http://adsabs.harvard.edu/abs/2014PhRvA..89d3842C),” *Phys. Rev. A*, vol. 89, p. 043842, Apr 2014
 * N. Bender, **S. Factor**, J. D. Bodyfelt, H. Ramezani, D. N. Christodulides, F. M Ellis, and T. Kottos, “[Observation of asymmetric transport in structures with active nonlinearities](http://adsabs.harvard.edu/abs/2013PhRvL.110w4101B),” *Phys. Rev. Lett.*, vol. 110, p. 234101, June 2013
 
 ## Posters and Presentations
 
-* Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](AASposter.pdf) number 146.25, [abstract](http://adsabs.harvard.edu/abs/2017AAS...22914625F)), *229th Meeting of the American Astronomical Society*, January 2017, Grapevine, TX
+* Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](AASPoster.pdf) number 146.25, [abstract](http://adsabs.harvard.edu/abs/2017AAS...22914625F)), *229th Meeting of the American Astronomical Society*, January 2017, Grapevine, TX
 * Why git is awesome and why we should all be using it ([slides](git_GSPS_11-04-16.pdf)), [*UT Austin Graduate Student Postdoc Seminar*](https://stevans.github.io/gsps/), November 2016, Austin, TX 
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](SSWposter.pdf)), [*Sagan Exoplanet Summer Workshop*](http://nexsci.caltech.edu/workshop/2016), July 2016, Pasadena, CA
 * ALMA Observations of Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula Cluster ([poster](WesPoster2.pdf)), *Frank N. Bash Symposium*, October 2015, Austin, TX
