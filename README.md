@@ -1,24 +1,20 @@
 # Beautiful Jekyll
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
+[![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
+
 > *Copyright 2016 [Dean Attali](http://deanattali.com)*
 
 **Beautiful Jekyll** is a ready-to-use template to help you create an awesome website quickly. Perfect for personal blogs or simple project websites.  [Check out a demo](http://deanattali.com/beautiful-jekyll) of what you'll get after just two minutes or look at the origional author's [personal website](http://deanattali.com) to see it in use, or see examples of websites other people created using this theme [here](#featured-users-success-stories).
 
-This template is built on top of [Jekyll](http://jekyllrb.com/) and can be used for any [GitHub Pages](https://pages.github.com/) website.  If you don't know what Jekyll and GitHub Pages are, that's absolutely fine, you dont need to! That being said, you can use these instructions to build a site quickly, but it might make a little more sense if you read up on them just a little bit.
+**If you enjoy this theme, please consider [supporting the origional author](https://www.paypal.me/daattali/20) for developing and maintaining this template.**
 
-Feel free to modify this in any way you'd like, but the origional author would appreciate it if you don't remove the attribution to Beautiful Jekyll.
-
-If you need a bit of help or have comments, feel free to [contact the oritional author](http://deanattali.com/aboutme#contact). Even if you don't have anything important to say but found this useful, he'd love to [hear about it](http://deanattali.com/aboutme#contact). 
-
-**This theme was developed for non-commerical purposes. For commerical usage, or if you enjoy this theme, please consider [supporting me](https://www.paypal.me/daattali/20) for developing and maintaining this template.**
 <p align="center">
   <a href="https://www.paypal.me/daattali">
     <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
   </a>
 </p>
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
-[![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
 ### Table of contents
 
@@ -183,11 +179,12 @@ Want your website featured here? [Contact me](http://deanattali.com/aboutme#cont
 | [bigdata.juju.solutions](http://bigdata.juju.solutions) | Creating Big Data solutions Juju Solutions |
 | [joecks.github.io/clipboard-actions](http://joecks.github.io/clipboard-actions/) | Clipboard Actions - an Android app |
 | [deanattali.com/shinyjs](http://deanattali.com/shinyjs/) | shinyjs - an R package |
-| [embedded.guide](http://embedded.guide) | Writing an Embedded OS |
 | [blabel.github.io](http://blabel.github.io) | Library for canonicalising blank node labels in RDF graphs |
 | [reactionic.github.io](http://reactionic.github.io) | Create iOS and Android apps with React and Ionic |
 | [ja2-stracciatella.github.io](http://ja2-stracciatella.github.io) | Jagged Alliance 2 Stracciatella |
 | [PatientOutcomeFunding.org](http://www.patientoutcomefunding.org/) | Patient Outcome Funding |
+| [ddocent.com](http://ddocent.com/) | RADSeq Bioinformatics and Beyond |
+| [fightthecube.com](http://fightthecube.com/) | Fight The Cube (personal finance education) |
 
 ### Personal websites
 
@@ -202,7 +199,7 @@ Want your website featured here? [Contact me](http://deanattali.com/aboutme#cont
 | [sjackman.ca](http://sjackman.ca) | Shaun Jackman | PhD candidate in bioinformatics |
 | [epwalsh.com](https://epwalsh.com) | Evan Pete Walsh | PhD candidate (Statistics and Mathematics) at Iowa State University ||
 | [anudit.in](http://www.anudit.in/) | Anudit Verma | Engineering student |
-| [aqibsaeed.github.io](http://aqibsaeed.github.io/) | Aaqib Saeed | Computer Science grad student |
+| [sharepointoscar.github.io](http://sharepointoscar.github.io) | Oscar Medina | Independent Hacker |
 
 
 ## Advanced: Local development using Docker
