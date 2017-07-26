@@ -24,10 +24,21 @@ This target demonstrates the power of kernel-phase analysis by detecting a binar
 ![4plt](../img/4plt.pdf "Image, Fourier amplitude and phase, and kernel-phase"){: height="306px" width="376px" style="float: left;”}
 ![corner](../img/GJ164F190Ncorner.pdf "Fit to the kernel-phases"){: height="339px" width="331x" style="float: right;"}
 -->
-{% include image.html url="../img/mask.pdf" description="HST aperture model" tabsty= "float: left;" %} 
-{% include image.html url="../img/baselines.pdf" description="Baselines from the model" tabsty= "float: right;" %} 
-{% include image.html url="../img/4plt.pdf" description="HST Image of GJ164 (top left), Fourier amplitude and phase with baselines overlayed in gray (bottom row), and kernel-phase (top right)" tabsty="float left;" style="height: 591px; width: 725px;" %} 
-{% include image.html url="../img/GJ164F190Ncorner.pdf" description="1 and 2D posteriors from fitting the Kernel-phases (lower left) and correlation plot showing the goodnes of fit (upper right)." tabsty="float: right;" style="height: 734px; width: 719px;" %} 
+
+| ![HST model](../img/mask.pdf) | ![Baselines](../img/baselines.pdf) |
+|:---:|:---:|
+| HST aperture model | Baselines from the model colored by redundancy |
+
+| ![HST Image Analysis](../img/4plt.pdf) | ![Corner Plot](../img/GJ164F190Ncorner.pdf) |
+|:---:|:---:|
+|"HST Image of GJ164 (top left), Fourier amplitude and phase with baselines overlayed in gray (bottom row), and kernel-phase (top right) | 1 and 2D posteriors from fitting the Kernel-phases (lower left) and correlation plot showing the goodnes of fit (upper right). |
+
+<!---
+{% include image.html img="../img/mask.pdf" title="HST model" caption="HST aperture model" tabsty= "float: left;" %} 
+{% include image.html img="../img/baselines.pdf" title="HST baselines" caption="Baselines from the model colored by redundancy" tabsty= "float: right;" %}
+{% include image.html img="../img/4plt.pdf" title="Image analysis" caption="HST Image of GJ164 (top left), Fourier amplitude and phase with baselines overlayed in gray (bottom row), and kernel-phase (top right)" tabsty="float left;" style="float: left;" %} height: 591px; width: 725px;" %}
+{% include image.html img="../img/GJ164F190Ncorner.pdf" title="Corner Plot" caption="1 and 2D posteriors from fitting the Kernel-phases (lower left) and correlation plot showing the goodnes of fit (upper right)." tabsty="float: right;" style="float: right;" %} height: 734px; width: 719px;" %} 
+-->
 
 
 # Master's thesis at Wesleyan:
@@ -35,9 +46,17 @@ This target demonstrates the power of kernel-phase analysis by detecting a binar
 ### Analysis of ALMA observations of a protoplanetary disk
 
 My Master's research, at Wesleyan University with Professor A. Meredith Hughes, looked at the initial conditions of planet formation inside disks of gas and dust around young stars. Specifically, I analyzed radio interferometric observations of gas line emission from a protoplanetary disk in the Orion Nebula Cluster. These observations were part of an Atacama Large Millimeter/submillimeter Array (ALMA) cycle 0 program ([P.I. Rita Mann](http://adsabs.harvard.edu/abs/2014ApJ...784...82M)). 
-<!---![ALMApv](../img/f4.png  "Position-velocity diagram")-->
-{% include image.html url="../img/f4.pdf" description="Position-velocity diagram" tabsty="float: right;margin-left: 1em;" %}<!--- style="height: 734px; width: 719px;" %} -->
+
+| ![ALMApv](../img/f4.png  "Position-velocity diagram") | ![HR Diagram](../img/f12.pdf) |
+|:---:|:---:|
+|Position-velocity diagram showing the asymmetric feature | HR diagram showing pre-main sequence evolutionary tracks for different masses. The green track is for our best fit mass while the blue dot and bar indicate the absolute magnitude and temperature from the literature. |
+
+<!---
+{% include image.html url="../img/f4.pdf" description="Position-velocity diagram" tabsty="float: right;margin-left: 1em;" %} style="height: 734px; width: 719px;" %}
+
 {% include image.html url="../img/f12.pdf" description="HR diagram showing pre-main sequence evolutionary tracks for different masses. The green track is for our best fit mass while the blue dot and bar indicate the absolute magnitude and temperature from the literature." tabsty="float: right;margin-left: 1em;" style="height: 303px; width: 385px;" %}
+-->
+
 I used a simple model of the gas emission to fit the density and temperature structure of the disk. Using this information, we can compare this disk to the theoretical disk which our own solar system formed from and investigate the likelihood of planet formation. We can also compare this disk, located in a high mass star forming region (SFR), to previously studied disks in nearby low mass SFR's, to investigate the effect of the surrounding environment. I wrote my Master’s thesis on this work and it was published in the Astronomical Journal ([Factor et al. 2017](http://adsabs.harvard.edu/abs/2017AJ....153..233F)). 
 
 A few of the interesting results are as follows. We serendipitously discovered high-velocity asymmetric emission consistent with a 1.8-8 M$$ _\mathrm{Jupiter} $$ clump of gas orbiting at $$ 60 \pm 20 $$au. This clump is indicated by the arrow in the position-velocity diagram below, showing the velocity of gas as a function of position offset from the central star along disk major axis. Since we can resolve both the position and velocity of the gas, we were able to fit Keplerian orbits to measure the mass of the central star. We measured it to be $$ 2.17 \pm 0.07 \mathrm{M}_\odot $$, inconsistent with the previously determined spectral type of K5.  
