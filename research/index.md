@@ -18,12 +18,6 @@ bigimg:
 I currently work with Adam Kraus at the University of Texas at Austin applying interferometric analysis techniques to archival data to detect close in companions, binary stars or exoplanets. This technique models the full aperture of the telescope as an array of sub-apertures. This model is then used to analyze images in the Fourier domain by simulating a redundant interferometer. The figures below show the progression from aperture model, to images, to Fourier amplitude and phase, to kernel-phase, to fitted astrometry and photometry. 
 This target demonstrates the power of kernel-phase analysis by detecting a binary at $$ \sim90 $$ miliarcseconds, just over $$ 0.5\,\lambda/D $$ for *HST*, at a contrast of $$ \sim8\!:\!1\! $$. I am PI of cycle 24 Hubble Space Telescope Archival Research Grant number 14561 to support this work. 
 
-<!---
-![mask](../img/mask.pdf "HST aperture model"){: style="float: left;"}
-![baselines](../img/baselines.pdf "Baselines from the model"){: style="float: right;"}
-![4plt](../img/4plt.pdf "Image, Fourier amplitude and phase, and kernel-phase"){: height="306px" width="376px" style="float: left;”}
-![corner](../img/GJ164F190Ncorner.pdf "Fit to the kernel-phases"){: height="339px" width="331x" style="float: right;"}
--->
 
 | ![HST model](../img/mask.pdf) | ![Baselines](../img/baselines.pdf) |
 |:---:|:---:|
@@ -32,14 +26,6 @@ This target demonstrates the power of kernel-phase analysis by detecting a binar
 | ![HST Image Analysis](../img/4plt.pdf) | ![Corner Plot](../img/GJ164F190Ncorner.pdf) |
 |:---:|:---:|
 |"HST Image of GJ164 (top left), Fourier amplitude and phase with baselines overlayed in gray (bottom row), and kernel-phase (top right) | 1 and 2D posteriors from fitting the Kernel-phases (lower left) and correlation plot showing the goodnes of fit (upper right). |
-
-<!---
-{% include image.html img="../img/mask.pdf" title="HST model" caption="HST aperture model" tabsty= "float: left;" %} 
-{% include image.html img="../img/baselines.pdf" title="HST baselines" caption="Baselines from the model colored by redundancy" tabsty= "float: right;" %}
-{% include image.html img="../img/4plt.pdf" title="Image analysis" caption="HST Image of GJ164 (top left), Fourier amplitude and phase with baselines overlayed in gray (bottom row), and kernel-phase (top right)" tabsty="float left;" style="float: left;" %} height: 591px; width: 725px;" %}
-{% include image.html img="../img/GJ164F190Ncorner.pdf" title="Corner Plot" caption="1 and 2D posteriors from fitting the Kernel-phases (lower left) and correlation plot showing the goodnes of fit (upper right)." tabsty="float: right;" style="float: right;" %} height: 734px; width: 719px;" %} 
--->
-
 
 # Master's thesis at Wesleyan:
 
@@ -51,11 +37,6 @@ My Master's research, at Wesleyan University with Professor A. Meredith Hughes, 
 |:---:|:---:|
 |Position-velocity diagram showing the asymmetric feature | HR diagram showing pre-main sequence evolutionary tracks for different masses. The green track is for our best fit mass while the blue dot and bar indicate the absolute magnitude and temperature from the literature. |
 
-<!---
-{% include image.html url="../img/f4.pdf" description="Position-velocity diagram" tabsty="float: right;margin-left: 1em;" %} style="height: 734px; width: 719px;" %}
-
-{% include image.html url="../img/f12.pdf" description="HR diagram showing pre-main sequence evolutionary tracks for different masses. The green track is for our best fit mass while the blue dot and bar indicate the absolute magnitude and temperature from the literature." tabsty="float: right;margin-left: 1em;" style="height: 303px; width: 385px;" %}
--->
 
 I used a simple model of the gas emission to fit the density and temperature structure of the disk. Using this information, we can compare this disk to the theoretical disk which our own solar system formed from and investigate the likelihood of planet formation. We can also compare this disk, located in a high mass star forming region (SFR), to previously studied disks in nearby low mass SFR's, to investigate the effect of the surrounding environment. I wrote my Master’s thesis on this work and it was published in the Astronomical Journal ([Factor et al. 2017](http://adsabs.harvard.edu/abs/2017AJ....153..233F)). 
 
