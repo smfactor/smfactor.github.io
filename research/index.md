@@ -19,11 +19,11 @@ I currently work with Adam Kraus at the University of Texas at Austin applying i
 This target demonstrates the power of kernel-phase analysis by detecting a binary at $$ \sim90 $$ miliarcseconds, just over $$ 0.5\,\lambda/D $$ for *HST*, at a contrast of $$ \sim8\!:\!1\! $$. I am PI of cycle 24 Hubble Space Telescope Archival Research Grant number 14561 to support this work. 
 
 
-| ![HST model](../img/mask.png){:class="img-responsive"} | ![Baselines](../img/baselines.png){:class="img-responsive"} |
+| ![HST model](../img/mask.png){: class="image-100" } | ![Baselines](../img/baselines.png){: class="image-100" } |
 |:---:|:---:|
 | HST aperture model | Baselines from the model colored by redundancy |
 
-| ![HST Image Analysis](../img/4plt.png){:class="img-responsive"} | ![Corner Plot](../img/GJ164F190Ncorner.png){:class="img-responsive"} |
+| ![HST Image Analysis](../img/4plt.png){: class="image-100"} | ![Corner Plot](../img/GJ164F190Ncorner.png){: class="image-100"} |
 |:---:|:---:|
 |"HST Image of GJ164 (top left), Fourier amplitude and phase with baselines overlayed in gray (bottom row), and kernel-phase (top right) | 1 and 2D posteriors from fitting the Kernel-phases (lower left) and correlation plot showing the goodnes of fit (upper right). |
 
@@ -33,7 +33,7 @@ This target demonstrates the power of kernel-phase analysis by detecting a binar
 
 My Master's research, at Wesleyan University with Professor A. Meredith Hughes, looked at the initial conditions of planet formation inside disks of gas and dust around young stars. Specifically, I analyzed radio interferometric observations of gas line emission from a protoplanetary disk in the Orion Nebula Cluster. These observations were part of an Atacama Large Millimeter/submillimeter Array (ALMA) cycle 0 program ([P.I. Rita Mann](http://adsabs.harvard.edu/abs/2014ApJ...784...82M)). 
 
-| ![ALMApv](../img/f4.png  "Position-velocity diagram"){:class="img-responsive"} | ![HR Diagram](../img/f12.png){:class="img-responsive"} |
+| ![ALMApv](../img/f4.png  "Position-velocity diagram"){:class="image-100"} | ![HR Diagram](../img/f12.png){:class="image-100"} |
 |:---:|:---:|
 |Position-velocity diagram showing the asymmetric feature | HR diagram showing pre-main sequence evolutionary tracks for different masses. The green track is for our best fit mass while the blue dot and bar indicate the absolute magnitude and temperature from the literature. |
 
