@@ -11,10 +11,10 @@ Check out my answers and ask your own question at [askanastronomer.org](http://a
 
 ## Publications
 
-* **S. Factor**, A. M. Hughes, K. Flaherty, R. K. Mann, J. Di Francesco, J. P. Williams, L. Ricci, B. C. Matthews, J. Bally, D. Johnstone, *AJ*, 153, 233 “ALMA Observations of Asymmetric Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula,”
-* J. M. Lee, **S. Factor**, Z. Lin, I. Vitebskiy, F. Ellis, T. Kottos, “[Reconfigurable directional lasing modes in cavities with generalized $$\mathcal{P}\tilde{\mathcal{T}}$$ Symmetry](http://adsabs.harvard.edu/abs/2014PhRvL.112y3902L),” *Phys. Rev. Lett.*, vol 112, p. 253902, Jun 2014
-* M. Chitsazi, **S. Factor**, J. Schindler, H. Ramezani, F. M. Ellis and T. Kottos, “[Experimental observation of lasing shutdown via asymmetric gain](http://adsabs.harvard.edu/abs/2014PhRvA..89d3842C),” *Phys. Rev. A*, vol. 89, p. 043842, Apr 2014
-* N. Bender, **S. Factor**, J. D. Bodyfelt, H. Ramezani, D. N. Christodulides, F. M Ellis, and T. Kottos, “[Observation of asymmetric transport in structures with active nonlinearities](http://adsabs.harvard.edu/abs/2013PhRvL.110w4101B),” *Phys. Rev. Lett.*, vol. 110, p. 234101, June 2013
+* **S. Factor**, A. M. Hughes, K. Flaherty, R. K. Mann, J. Di Francesco, J. P. Williams, L. Ricci, B. C. Matthews, J. Bally, D. Johnstone, *AJ*, 153, 233 "[ALMA Observations of Asymmetric Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula](http://adsabs.harvard.edu/abs/2017AJ....153..233F)"
+* J. M. Lee, **S. Factor**, Z. Lin, I. Vitebskiy, F. Ellis, T. Kottos, "[Reconfigurable directional lasing modes in cavities with generalized $$\mathcal{P}\tilde{\mathcal{T}}$$ Symmetry](http://adsabs.harvard.edu/abs/2014PhRvL.112y3902L)," *Phys. Rev. Lett.*, vol 112, p. 253902, Jun 2014
+* M. Chitsazi, **S. Factor**, J. Schindler, H. Ramezani, F. M. Ellis and T. Kottos, "[Experimental observation of lasing shutdown via asymmetric gain](http://adsabs.harvard.edu/abs/2014PhRvA..89d3842C)," *Phys. Rev. A*, vol. 89, p. 043842, Apr 2014
+* N. Bender, **S. Factor**, J. D. Bodyfelt, H. Ramezani, D. N. Christodulides, F. M Ellis, and T. Kottos, "[Observation of asymmetric transport in structures with active nonlinearities](http://adsabs.harvard.edu/abs/2013PhRvL.110w4101B)," *Phys. Rev. Lett.*, vol. 110, p. 234101, June 2013
 
 ## Posters and Presentations
 
