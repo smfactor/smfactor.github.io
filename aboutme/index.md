@@ -6,7 +6,7 @@ subtitle: Outside of School
 
 Check out an interview I did with the Wesleyan Newsletter [here](http://newsletter.blogs.wesleyan.edu/2015/05/19/samfactor/).
 
-I enjoy hiking and camping in what little free time I have. I also dabble in astrophotography. Below are a few pictures I took. (More to come!)
+I enjoy hiking and camping in what little free time I have. I also dabble in astrophotography. Below are a few pictures I took. (More to come, including pictures of the recent solar eclipse from Grand Teton National Park!)
 
 The Orion Nebula from Mauna Kea VIS, HI (Nikon D5200 300mm f/6.3 59x2sec ISO:6400)
 ![ASTOri](../img/Stack.jpg "The Orion Nebula")
