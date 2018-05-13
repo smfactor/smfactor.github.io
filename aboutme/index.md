@@ -15,8 +15,11 @@ I enjoy hiking and camping in what little free time I have. I also dabble in ast
 The Orion Nebula from Mauna Kea VIS, HI (Nikon D5200 300mm f/6.3 59x2sec ISO:6400)
 ![ASTOri](../img/Stack.jpg "The Orion Nebula")
 
-A movie of some (not that great) startrails I made at McDonald observatory
+A movie of some (not that great) startrails I made at McDonald observatory.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bkblBwqDpl8" frameborder="0" allowfullscreen></iframe>
+
+A timelapse I took at the Star and Planet formation in the South West 2 (SPF2) Conference at the Biosphere 2 in Arizona. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nysr5P2TP5k?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Rowing
 
