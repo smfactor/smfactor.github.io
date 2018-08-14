@@ -20,6 +20,8 @@ Check out my answers and ask your own question at [askanastronomer.org](http://a
 
 ## Posters and Presentations
 
+* Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](CS20Poster.pdf)), *20th Cambridge Workshops of Cool Stars, Stellar Systems and the Sun*, August 2018, Boston, MA
+* Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](SPF2Poster.pdf)), *Star and Planet Formation in the Southwest*, March 2018, Oracle, AZ
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](AASPoster.pdf) number 118.03, [abstract](http://adsabs.harvard.edu/abs/2017AAS...23011803F)), *230th Meeting of the American Astronomical Society*, June 2017, Austin, TX
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](AASPoster.pdf) number 146.25, [abstract](http://adsabs.harvard.edu/abs/2017AAS...22914625F)), *229th Meeting of the American Astronomical Society*, January 2017, Grapevine, TX
 * Why git is awesome and why we should all be using it ([slides](git_GSPS_11-04-16.pdf)), [*UT Austin Graduate Student Postdoc Seminar*](https://ottostruve.github.io/gsps/), November 2016, Austin, TX 
