@@ -21,6 +21,9 @@ A movie of some (not that great) startrails I made at McDonald observatory.
 A time-lapse I took at the Star and Planet formation in the South West 2 (SPF2) Conference at the Biosphere 2 in Arizona. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nysr5P2TP5k?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+I caught the International Space Station transiting the sun just north of Austin, TX on the morning of November 4, 2018.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aX6UcuRWHxI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Rowing
 
 In High School, at Camp Randall Rowing Club, and in college, at Wesleyan University, I rowed competitively. In my Junior and Senior year of college I sat stroke seat of the 2nd Varsity 8+ at the New England Rowing Championships where we finished 3rd both years. Also in my senior year I sat 2 seat of our 1st varsity 8+ at the Head of the Charles Regatta and finished 5th in the Collegiate 8+ event. In high school I traveled to US Rowing Youth National championships 3 years in a row to compete in the light weight 4+ event. My junior year we finished 4th in the nation. 
