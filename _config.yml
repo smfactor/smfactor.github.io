@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "http://smfactor.github.io"
+url: "https://smfactor.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -145,7 +145,7 @@ google_analytics: "UA-71164810-1"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 100
+excerpt_length: 200
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
