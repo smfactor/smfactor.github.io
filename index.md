@@ -10,7 +10,7 @@ bigimg:
   - "/img/big-imgs/SMA.jpg" : "SMA, Credit: CfA"
 ---
 
-I am a 3nd year graduate student in the Astronomy department at The University of Texas at Austin. I work with Professor Adam Kraus on direct imaging of extrasolar planets. I recieved my B.A. in physics and computer science from Wesleyan University in 2014 and my M.A. in astronomy in 2015 as part of Wesleyan's 5 year combined BA/MA program. 
+I am a 4th year graduate student in the Astronomy department at The University of Texas at Austin. I work with Professor Adam Kraus on direct imaging of extrasolar planets. I recieved my B.A. in physics and computer science from Wesleyan University in 2014 and my M.A. in astronomy in 2015 as part of Wesleyan's 5 year combined BA/MA program. 
 
 For more information on my research intrest and projects, see my [research](/research) page. For a list of my publications, presentations and my full CV, see my [publications](/publications) page. 
 My [blog](/blog) has my ramblings on random cool science tidbits or coding projects.
