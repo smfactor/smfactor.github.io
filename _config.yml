@@ -4,7 +4,7 @@
 title: Samuel M. Factor
 
 # Short description of your site
-description: Personal website for Samuel M. Factor #virtual proof that name is awesome!
+description: Personal website for Samuel M. Factor
 
 # Your name to show in the footer
 author: Samuel M. Factor
@@ -20,10 +20,6 @@ navbar-links:
   #    - ADS: "http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PHY&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cond-mat&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-lat&arxiv_sel=hep-ph&arxiv_sel=hep-th&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=nucl-th&arxiv_sel=physics&arxiv_sel=quant-ph&arxiv_sel=q-bio&sim_query=YES&ned_query=YES&adsobj_query=YES&aut_logic=OR&obj_logic=OR&author=Factor%2C+Samuel&object=&start_mon=&start_year=&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=200&start_nr=1&jou_pick=ALL&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=SCORE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1"
   Blog: "blog"
   About Me: "aboutme"
-  #Resources:
-  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  #  - Learn markdown: "http://www.markdowntutorial.com/"
-  #Author's home: "http://deanattali.com"
 
 # --- Logo --- #
 
@@ -41,28 +37,22 @@ round-avatar: true
 
 # --- Footer options --- #
 
-# Change all these values or delete the ones you don't want.
-# Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: Samuel M. Factor
-
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-social-network-links:
-   rss: false
-   email: "sfactor@utexas.edu"
+  email: "sfactor@utexas.edu"
 #  facebook: deanattali
-   github: smfactor
-   twitter: smfactor0
+  github: smfactor
+  twitter: smfactor0
+  linkedin: samuelfactor
+  rss: false
 #  reddit: yourname
-   linkedin: samuelfactor
+#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-   instagram: smfactor
+  instagram: smfactor
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -84,7 +74,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "smfactor.github.io" # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "smfactor.github.io"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -165,10 +155,7 @@ google_analytics: "UA-71164810-1"
 #    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
-
-# Facebook App ID
-# fb_app_id: ""
-
+#
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 200
@@ -192,7 +179,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-paginate_path: "/blog/posts/page:num/"
+paginate_path: "/posts/page:num/"
 
 kramdown:
   input: GFM
