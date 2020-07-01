@@ -3,11 +3,11 @@ layout: page
 title: Research
 subtitle: Exoplanets and Planet Formation
 bigimg:
-  - "/img/big-imgs/heic0917aasc.jpg" : "The Orion ''Proplyds'', Credit: NASA/ESO"
-  - "/img/big-imgs/heic0917absc.jpg" : "Orion, Credit: NASA/ESO"
-  - "/img/big-imgs/alma-starry-night.jpg" : "ALMA, Credit: ESO"
-  - "/img/big-imgs/hltau.jpg" : "HL Tau, Credit: ALMA"
-  - "/img/big-imgs/SMA.jpg" : "SMA, Credit: CfA"
+  - "/assets/img/big-imgs/heic0917aasc.jpg" : "The Orion ''Proplyds'', Credit: NASA/ESO"
+  - "/assets/img/big-imgs/heic0917absc.jpg" : "Orion, Credit: NASA/ESO"
+  - "/assets/img/big-imgs/alma-starry-night.jpg" : "ALMA, Credit: ESO"
+  - "/assets/img/big-imgs/hltau.jpg" : "HL Tau, Credit: ALMA"
+  - "/assets/img/big-imgs/SMA.jpg" : "SMA, Credit: CfA"
 ---
 {% include mathjs %}
 
@@ -19,11 +19,11 @@ I currently work with Adam Kraus at the University of Texas at Austin applying i
 This target demonstrates the power of kernel-phase analysis by detecting a binary at $$ \sim90 $$ miliarcseconds, just over $$ 0.5\,\lambda/D $$ for *HST*, at a contrast of $$ \sim8\!:\!1\! $$. I am PI of cycle 24 Hubble Space Telescope Archival Research Grant number 14561 to support this work. 
 
 
-| [![HST model](../img/mask.png){: class="image-100" }](../img/mask.pdf) | [![Baselines](../img/baselines.png){: class="image-100" }](../img/baselines.pdf) |
+| [![HST model](../assets/img/mask.png){: class="image-100" }](../assets/img/mask.pdf) | [![Baselines](../assets/img/baselines.png){: class="image-100" }](../assets/img/baselines.pdf) |
 |:---:|:---:|
 | HST aperture model | Baselines from the model colored by redundancy |
 
-| [![HST Image Analysis](../img/4plt.png){: class="image-100"}](../img/4plt.pdf) | [![Corner Plot](../img/testCorner.png){: class="image-100"}](../img/testCorner.pdf) |
+| [![HST Image Analysis](../assets/img/4plt.png){: class="image-100"}](../assets/img/4plt.pdf) | [![Corner Plot](../assets/img/testCorner.png){: class="image-100"}](../assets/img/testCorner.pdf) |
 |:---:|:---:|
 |HST Image of a binary star system (top left), Fourier amplitude and phase with baselines overlayed in gray (bottom row), and histogram of the kernel-phases (top right) | 1 and 2D posteriors from fitting the Kernel-phases (lower left) and correlation plots showing the goodnes of fit in the two filters (upper right). |
 
@@ -33,7 +33,7 @@ This target demonstrates the power of kernel-phase analysis by detecting a binar
 
 My Master's research, at Wesleyan University with Professor A. Meredith Hughes, looked at the initial conditions of planet formation inside disks of gas and dust around young stars. Specifically, I analyzed radio interferometric observations of gas line emission from a protoplanetary disk in the Orion Nebula Cluster. These observations were part of an Atacama Large Millimeter/submillimeter Array (ALMA) cycle 0 program ([P.I. Rita Mann](http://adsabs.harvard.edu/abs/2014ApJ...784...82M)). 
 
-| [![ALMApv](../img/f4.png  "Position-velocity diagram"){:class="image-100"}](../img/f4.pdf) | [![HR Diagram](../img/f12.png){:class="image-100"}](../img/f12.pdf) |
+| [![ALMApv](../assets/img/f4.png  "Position-velocity diagram"){:class="image-100"}](../assets/img/f4.pdf) | [![HR Diagram](../assets/img/f12.png){:class="image-100"}](../assets/img/f12.pdf) |
 |:---:|:---:|
 |Position-velocity diagram showing the asymmetric feature | HR diagram showing pre-main sequence evolutionary tracks for different masses. The green track is for our best fit mass while the blue dot and bar indicate the absolute magnitude and temperature from the literature. |
 

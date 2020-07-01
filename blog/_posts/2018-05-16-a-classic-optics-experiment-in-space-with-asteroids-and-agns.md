@@ -4,7 +4,7 @@ title: A classic optics experiment, in space with asteroids and AGNs!
 subtitle: reposted from astrobites.org
 author: Sam Factor
 tags: asteroids diffraction Interferometry occultations radio-astrometry
-image: /img/blog/palma_fg12cropped.jpg
+image: /assets/img/blog/palma_fg12cropped.jpg
 ---
 
 <strong>Title:</strong> <a href="https://arxiv.org/abs/1804.05640">Radio interferometric observation of an asteroid occultation</a>
@@ -20,7 +20,7 @@ For decades astronomers have used occultations to study celestial bodies such as
 On May 15, 2017 at UT 14:31:23 an asteroid named Palma crossed in-between AGN 0141+268 and the Brewster VLBA station. Figure 1 shows the path of the shadow across the North Western United States. Normally when observing an occultation you would expect to simply see the background source disappear for some period of time and then reappear from behind the occulter. This was not quite the case for this observation. This observation was special because of the relative size of the asteroid, the distance to the asteroid, and the wavelength of the observation. In this case they observed not just the shadow of the asteroid as it occulted the AGN but also the diffraction pattern.
 
 <div class="img">
-<img src="/img/blog/palma_fg2.jpg"/>
+<img src="/assets/img/blog/palma_fg2.jpg"/>
 <div class="caption"><strong>Figure 1:</strong> Path of the shadow cast by Palma across the Brewster VLBA station. Grey eclipses indicate the geometric shadow at intervals of one second. Orange eclipses indicate the location of the first maxima of the diffraction pattern four seconds before and after the closest approach. <em>Figure 2 in the paper.</em></div>
 </div>
 
@@ -29,7 +29,7 @@ This is essentially the classic diffraction experiment of shining a laser on a s
 Since the occultation was observed with a radio interferometer they not only observed how the intensity of light changed but also the phase. This was the first time a measurement of the phase of astronomical diffraction has been measured. This phase information, combined with the amplitude in an amplitude-phase diagram, plays a crucial role in determining the size and shape of the asteroid. This diagram is shown in the bottom left panel of Figure 2. The authors fit a number of models (circle, ellipse, two overlapping circles they call potato-shaped, a random continuous shape, and a model derived from visible light occultations) to the combined amplitude and phase observations. With the given data it is difficult to discern the exact shape of the asteroid though they did find a diameter of 192 km (consistent with previous observations) and that it deviates 10–20% from a circle.
 
 <div class="image">
-<img src="/img/blog/palma_fg12.jpg"> 
+<img src="/assets/img/blog/palma_fg12.jpg"> 
 <div class="caption"><strong>Figure 2:</strong> Top: model of the shape of the asteroid Palma (a), and the amplitude (b) and phase (c) of the resulting diffraction pattern. Bottom: amplitude phase diagram (d) showing the data points and modeled curves (blue and red correspond to ingress and egress, respectively), and amplitude (e) and phase (f) cuts along the path of the Brewster VLBA station. Data are shown in thick lines, models in thin lines and residuals at the bottom. <em>Figure 12 in the paper.</em></div>
 </div>
 

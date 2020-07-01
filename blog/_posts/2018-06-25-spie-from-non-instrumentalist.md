@@ -4,7 +4,7 @@ title: SPIE From the Perspective of a Non-Instrumentalist
 subtitle: reposted from astrobites.org
 author: Sam Factor
 tags: equity-and-inclusion instrumentation interferometry optical-interferometry space-missions spie
-image: /img/blog/IMG_6280K.jpg
+image: /assets/img/blog/IMG_6280K.jpg
 ---
 
 Continuing on the thread from Friday's post, today's post is also about the recent <a href="http://spie.org/conferences-and-exhibitions/astronomical-telescopes-and-instrumentation/conferences">SPIE Astronomical Telescopes and Instrumentation</a> conference that took place a few weeks ago in Austin, TX. As the title says, I'm not an instrumentalist so normally I would not attend this conference. But, since I live in Austin and SPIE was kind enough to offer astrobites press credentials, I went for one day. (You can find another post on this year's conference <a href="https://astrobites.org/2018/06/22/spie_astro_2018/">here</a> and on the same conference two years ago <a href="https://astrobites.org/2016/07/08/the-spie-astronomical-telescopes-instrumentation-conference-spieastro-in-edinburgh/">here</a>.)
@@ -14,14 +14,14 @@ Like the American Astronomical Society conferences, the day started off with two
 Thronson argued that this may actually reduce the cost of the telescope due to a few factors. First is the possibility of greater commonality between observatories. Rather than the entire telescope being custom built, some common structures or robotics could be used for multiple missions. The second factor is the ability to use multiple medium lift launch vehicles rather than a monolithic heavy lift vehicle. Not only are medium lift vehicles becoming cheaper, due to private companies, but this also reduces risk. Using multiple launches means that if one launch fails, though still a huge loss, the entire project is not destroyed. In my opinion, these medium lift vehicles will also be more reliable as they will be used more often (e.g. for commercial satellite launches) than the expensive heavy vehicles.
 
 <div class="img">
-<img src="/img/blog/IMG_6267K.jpg">
+<img src="/assets/img/blog/IMG_6267K.jpg">
 <div class="caption"><strong>Figure 1:</strong> Harley Thronson describing a concept for using a spider like robot to assemble large aperture telescopes in space.</div>
 </div>
 
 The second plenary of the morning was about diversifying engineering by Sabrina Stierwalt from Caltech. I think it's great to see talks about equity and inclusion in the plenary sessions. I'm sure you are all well aware of how bad our field is with representation, but if you're not, <a href="https://astrobites.org/2018/05/25/lgbtq-inclusivity-in-astronomy/">check</a> <a href="https://astrobites.org/2017/12/25/building-an-inclusive-astronomy-community/">out</a> <a href="https://astrobites.org/2016/10/07/bringing-equity-and-inclusion-to-your-workplace/">these</a> <a href="https://astrobites.org/2016/09/09/the-impact-of-the-physics-gre-in-astronomy-graduate-admissions/">astrobites</a>. Stierwalt began with some harrowing statistics from a new <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2004956">study</a> using publication data from more than 10 million papers. At the current rate, astrophysics will reach gender parity in publications in 131 years. Clearly we need to do something different and proactive. Stierwalt outlined 3 important paths to making STEM more accessible. The first is through active support and mentoring. Departments need to make it clear that good mentoring is valued just as much as bringing in grants and teaching. The second path is through hiring and recruitment. We need to actively and intentionally recruit underrepresented applicants and dispel the myth of a lack of qualified candidates. Finally, the third path is creating a workplace that works for everyone. This includes the obvious aspects of accommodating parents, disabilities, religious holidays, etc. but also emphasizing and rewarding teamwork and collaboration. There will be challenges but the community can and must overcome them.
 
 <div class="img">
-<img src="/img/blog/IMG_6280K.jpg"> 
+<img src="/assets/img/blog/IMG_6280K.jpg"> 
 <div class="caption"><strong>Figure 1:</strong> Sabrina Stierwalt speaking about 3 pathways toward diversifying STEM fields.</div>
 </div>
 

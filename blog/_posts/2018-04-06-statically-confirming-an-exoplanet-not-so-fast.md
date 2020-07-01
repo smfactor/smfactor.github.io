@@ -4,7 +4,7 @@ title: Statistically Confirming an Earth-Like Planet? Not So Fast!
 subtitle: reposted from astrobites.org
 author: Sam Factor
 tags: Earth-like-exoplanets exoplanets Kepler KOI statistics Transit-method transiting-planets transits
-image: /img/blog/invV452_thumb.png
+image: /assets/img/blog/invV452_thumb.png
 ---
 <strong>Title:</strong> <a href="https://arxiv.org/abs/1803.11307">Kepler's Earth-like Planets Should Not Be Confirmed Without Independent Detection: The Case of Kepler-452b</a>
 
@@ -25,7 +25,7 @@ The authors of this paper use two lines of reasoning to argue that purely statis
 The second argument the authors make is that it is extremely difficult to identify false positives effectively without also reducing the completeness. To test the effectiveness of a method you must first produce a set of data which you know do not contain transits but also exhibit the same noise properties. One way to do this is to invert real light curves. This turns real transits, which dim the light of the star, into brightness <em>increases</em> which are difficult to produce astrophysically. The pipeline then looks for candidate transits which you know are caused by noise (since these would have been brightness increases in the original data).  Previous work by another team found that <a href="https://software.nasa.gov/software/ARC-17981-1">Robovetter</a> (one of the main software packages used to verify candidate transits) has an effectiveness of 98.3% (almost all false positives are correctly identified and only 1.7% are misidentified as real transits). Figure 1 shows just how difficult this is. Can you identify which set of transits are Kepler-452b and which are inverted light curves (fake transits caused by noise)?
 
 <div class="image">
-<img src="/img/blog/invV452.png"/>
+<img src="/assets/img/blog/invV452.png"/>
 <div class="caption"><strong>Figure 1:</strong> Top and bottom rows show a different candidate transit signal, highlighted in blue. The four panels on the left are each individual transits while the rightmost panel is the stacked (folded) light curve (red points show binned data). Can you tell which of these light curves is Kepler-452b and which is simulated fake data? (the answer is at the end of the post). <em>Figure 1 in the paper.</em></div>
 </div>
 

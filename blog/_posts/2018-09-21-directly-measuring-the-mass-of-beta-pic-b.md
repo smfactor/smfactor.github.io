@@ -4,7 +4,7 @@ title: Directly measuring the mass of an imaged planet
 subtitle: reposted from astrobites.org
 author: Sam Factor
 tags: astrometry Beta-Pictoris direct-imaging exoplanets Gaia Jupiter-like-exoplanets
-image: /img/blog/Beta_Pictoris_system_annotated.jpg
+image: /assets/img/blog/Beta_Pictoris_system_annotated.jpg
 ---
 
 <strong>Title:</strong> <a href="https://arxiv.org/abs/1808.06257">The mass of the young planet Beta Pictoris b through the astrometric motion of its host star</a>
@@ -18,14 +18,14 @@ image: /img/blog/Beta_Pictoris_system_annotated.jpg
 The mass of a directly imaged planet is a tricky quantity to measure. Normally all you have is the brightness of the planet in comparison to its host star. Since giant planets do not produce their own energy (e.g. through fusion like a star) they simply cool with time. Their initial brightness depends on their mass: the gravitational potential energy of all the material collapsing down to form the planet. Therefore, the brightness of the planet, combined with the age of the system and models of planet formation, can be used to back out the mass of the planet. A prominent question in the field of planet formation is the initial conditions for these models: how much of the gravitational potential energy goes into the planet (heating it up) and how much is dissipated before the planet forms? This uncertainty leads to a spectrum of different initial conditions ranging from <a href="http://beyondearthlyskies.blogspot.com/2014/08/giant-planet-formation-cold-start-vs.html">"hot" to "cold" start</a> models.
 
 <div class="img">
-<img src="/img/blog/Beta_Pictoris_system_annotated.jpg"> <img src="/img/blog/betapic_orbit.gif"> <br/><br/> 
+<img src="/assets/img/blog/Beta_Pictoris_system_annotated.jpg"> <img src="/assets/img/blog/betapic_orbit.gif"> <br/><br/> 
 <div class="caption"><strong>Figure 1:</strong> <em>Top:</em> Discovery image of β Pictoris b orbiting its host star inside a disk of gas and dust. <em>Bottom:</em> Animation of more recent data showing orbital motion of the planet. <br/><em>Credit: (left) ESO/A.-M. Lagrange et al. (2009), (right) <a href="https://jasonwang.space/orbits.html">Jason Wang</a>.</em></div>
 </div>
 
 <a href="https://en.wikipedia.org/wiki/Beta_Pictoris_b">β Pictoris b</a> is one of the first directly imaged planets. It is a gas giant (4-17 times the mass of Jupiter, though likely closer to 13) orbiting a nearby (19 pc) star in the young (~10-20 Myr) β Pictoris moving group. It has been <a href="https://astrobites.org/2014/05/09/an-exoplanets-fast-spin/">well studied</a> in the last decade since its discovery, including determining that its orbit is nearly edge on, though non-transiting. Figure 1 shows the first image of the planet and some more recent observations showing its orbital motion. Today's paper presents the measurement of the mass of β Pic b using astrometry. Since the measurement is model independent, it can be used to calibrate the initial conditions of the models.
 
 <div class="img">
-<img src="/img/blog/41550_2018_561_Fig1_HTML.png">
+<img src="/assets/img/blog/41550_2018_561_Fig1_HTML.png">
 <div class="caption"><strong>Figure 2:</strong> Hipparcos data from 1990-1993 showing the astrometric motion of β Pic. The black curve is the best-fit model to the parallax (shown by the gray circle) and the star’s proper motion (gray line). The light blue line shows the proper motion measured using the 24 yr Hipparcos–Gaia baseline, and the red arrow indicates the difference from the proper motion calculated using only the Hipparcos data. This difference, caused by the planet, is amplified by a factor of ten to make the effect visible. <em>Figure 1 in the paper.</em></div>
 </div>
 

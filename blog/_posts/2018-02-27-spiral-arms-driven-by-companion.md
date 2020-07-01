@@ -4,7 +4,7 @@ title: Imaged Companion Drives Spiral Arms in Disk
 subtitle: reposted from astrobites.org
 author: Sam Factor
 tags: astrometry binary-stars computer-simulations numerical-simulations observations planet-formation protoplanetary-disks radio-astronomy simulations star-formation
-image: /img/blog/HD100453_thumb.jpg
+image: /assets/img/blog/HD100453_thumb.jpg
 ---
 
 <strong>Title:</strong> <a href="https://arxiv.org/abs/1801.03900">The Orbit of the Companion to HD 100453A: Binary-Driven Spiral Arms in a Protoplanetary Disk</a>
@@ -22,7 +22,7 @@ Today’s paper combines a wide range of data sets---spanning the radio to near-
 Using the Spectro-Polarimetric High Contrast Exoplanet Research instrument (<a href="https://www.eso.org/sci/facilities/paranal/instruments/sphere.html">SPHERE</a>) in 2015, astronomers discovered a two-armed spiral structure in the disk around HD 100453 A (see Figure 1). This structure is very different from the gaps seen in images of protoplanetary disks from the Atacama Large Millimeter/submillimeter Array (<a href="http://www.almaobservatory.org/en/home/">ALMA</a>) such as <a href="https://astrobites.org/2016/06/26/new-rings-detected-for-old-protoplanetary-disk/">HL Tau and TW Hya</a>. The spiral arms seen in the disk around HD 100453 A and two other disks (<a href="https://science.nasa.gov/science-news/science-at-nasa/2011/31oct_spiralarms">SAO 206462</a> and <a href="http://www.sci-news.com/astronomy/science-spirals-arms-young-stars-giant-planets-03397.html">MWC 758</a>) could be caused by a massive companion (planet or star) orbiting outside the disk or processes within the disk such as self-gravity or dead zones. The HD 100453 system is unique in that it has a known M-dwarf companion of about 0.2 solar masses (HD 100453 B). The authors of this paper show that this companion is the cause of the spiral arms seen in the disk, without invoking other driving mechanisms.
 
 <div class="image">
-<img src="/img/blog/HD100453.jpg" alt="Image of HD100453">
+<img src="/assets/img/blog/HD100453.jpg" alt="Image of HD100453">
 <div class="caption"><strong>Figure 1:</strong> Image of the HD 100453 system showing the primary star (behind the coronagraph), the disk and spiral arms, and the M-dwarf companion. Red, green, and blue colors are Y-, J-, and H-band filters, respectively. <em>Figure 1 in the paper.</em></div>
 </div>
 
@@ -31,7 +31,7 @@ The first step in connecting the companion star to the spiral arms of the disk w
 Since the mutual inclination between the companion and disk has a significant effect on the evolution of the system, the authors needed to determine the inclination of the protoplanetary disk. They used publicly available ALMA observations of carbon monoxide in the disk. Fitting a simple smooth disk profile to the keplerian orbits of the gas gave a disk inclination of 28 degrees, consistent within 1σ with the inclination of the companion.
 
 <div class="image">
-<img src="/img/blog/HD100453_models.jpg" alt="Model comparison of HD100453">
+<img src="/assets/img/blog/HD100453_models.jpg" alt="Model comparison of HD100453">
 <div class="caption"><strong>Figure 2:</strong> Image of the HD 100453 system (<em>top</em>) compared with hydrodynamic and radiative transfer simulation viewed from an inclination of 30 degrees (<em>bottom</em>). <em>Figure 7 in the paper.</em></div>
 </div>
 

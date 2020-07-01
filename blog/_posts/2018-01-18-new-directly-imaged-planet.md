@@ -4,7 +4,7 @@ title: New Directly Imaged Planet Challenges Planet Formation Theories
 subtitle: reposted from astrobites.org
 author: Sam Factor
 tags: planets direct-imaging exoplanets planet-formation planetary-migration
-image: /img/blog/HIP65426_thumb.png
+image: /assets/img/blog/HIP65426_thumb.png
 ---
 
 
@@ -21,7 +21,7 @@ image: /img/blog/HIP65426_thumb.png
 Taking a picture of an extremely faint planet next to a bright star is exceptionally challenging, both due to the difficulty of the observations and the rarity of planets at wide separations. So, when a new planet is imaged, it makes waves in the community. HIP 65426 b is the first planet discovered with the Spectro-Polarimetric High-contrast Exoplanet REsearch (<a href="https://www.eso.org/public/teles-instr/paranal-observatory/vlt/vlt-instr/sphere/">SPHERE</a>) instrument on the Very Large Telescope (VLT) at Paranal Observatory in Chile. You may remember a <a href="https://astrobites.org/2016/07/20/a-planet-living-on-the-edge/">paper</a> published last year about a planet in a triple system discovered by SPHERE. Unfortunately that object is most likely a <a href="https://phys.org/news/2017-06-exoplanet-hd-ab-background-star.html">background star</a> (<a href="https://arxiv.org/abs/1705.06851">paper</a>), making HIP 65426 b the first planet discovered by SPHERE. Figure 1 shows the discovery image.
 
 <div class="image">
-<img src="/img/blog/HIP65426.png" alt="Image of HIP65426 b">
+<img src="/assets/img/blog/HIP65426.png" alt="Image of HIP65426 b">
 <div class="caption"><strong>Figure 1:</strong> Image of HIP 65426 b at 1.6 μm. HIP 65426 is located at the center of the image, behind the coronagraph, while the planet is located to the lower left. <em>Figure 1 in the paper.</em></div>
 </div>
 
@@ -30,7 +30,7 @@ SPHERE is part of a new generation of extreme adaptive optics instruments, along
 HIP 65426 b was discovered 830 milliarcseconds from its host star HIP 65426. To put that separation into context, 830 milliarcseconds is the size of a human hair at a distance of 25 meters, or just under 2 inches at the height of a passenger jet. Using the distance to the star measured by <a href="http://sci.esa.int/gaia/">Gaia</a>, this separation converts to a projected separation axis (since we do not know the inclination of the orbit) of 92 au. Using the age of the star (~14 Myr derived from nearby cluster members) the authors fit the spectrum of the planet and found it to be 6-12 Jupiter masses with an effective temperature of 1300-1600 K and a radius of ~1.5 Jupiter radii. This places HIP 65426 b in a range of parameter space particularly interesting in the study of cloud formation in giant planets and brown dwarfs. Figure 2 shows a comparison of the observed spectrum to model atmospheres and observed brown dwarfs of similar mass and temperature.
 
 <div class="image">
-<img src="/img/blog/planet_spectra.png" alt="Spectrum of HIP65426 b compared with models">
+<img src="/assets/img/blog/planet_spectra.png" alt="Spectrum of HIP65426 b compared with models">
 <div class="caption"><strong>Figure 2:</strong> Spectrum of HIP 65426 b (in grey) compared with the best fit atmospheric models (in blue) and observed spectra of brown dwarfs (in pink). The data matche a fairly wide range of temperatures and radii due to different cloud properties. Notice how the models differ significantly in the regions where there are no data points. <em>Figure 3 in the paper.</em></div>
 </div>
 
