@@ -23,9 +23,9 @@ This target demonstrates the power of kernel-phase analysis by detecting a binar
 |:---:|:---:|
 | HST aperture model | Baselines from the model colored by redundancy |
 
-| [![HST Image Analysis](../img/4plt.png){: class="image-100"}](../img/4plt.pdf) | [![Corner Plot](../img/GJ164F190Ncorner.png){: class="image-100"}](../img/GJ164F190Ncorner.pdf) |
+| [![HST Image Analysis](../img/4plt.png){: class="image-100"}](../img/4plt.pdf) | [![Corner Plot](../img/testCorner.png){: class="image-100"}](../img/testCorner.pdf) |
 |:---:|:---:|
-|HST Image of GJ164 (top left), Fourier amplitude and phase with baselines overlayed in gray (bottom row), and histogram of the kernel-phases (top right) | 1 and 2D posteriors from fitting the Kernel-phases (lower left) and correlation plot showing the goodnes of fit (upper right). |
+|HST Image of a binary star system (top left), Fourier amplitude and phase with baselines overlayed in gray (bottom row), and histogram of the kernel-phases (top right) | 1 and 2D posteriors from fitting the Kernel-phases (lower left) and correlation plots showing the goodnes of fit in the two filters (upper right). |
 
 # Master's thesis at Wesleyan:
 
