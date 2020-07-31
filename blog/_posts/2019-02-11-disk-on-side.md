@@ -21,7 +21,7 @@ Disks are a common side effect of star formation (even around <a href="https://a
 HD 98800 is actually not just a binary, it is a hierarchical quadruple system. In other words, it consists of two pairs of binary stars that orbit each other. Each binary is labeled with a capital letter (A or B) while each star in the binary is labeled with a lower case letter (a or b). The authors used the Atacama Large Millimeter/submillimeter Array (<a href="https://public.nrao.edu/telescopes/alma/">ALMA</a>) to observe thermal emission from dust (Figure 1) and line emission from carbon monoxide gas (Figure 2) coming from the disk. As shown in Figure 1, the disk is around the B system, while the A system is on a wide, long period orbit. They fit a simple model to the observations to determine the disk orientation, size, and structure.
 
 <div class="img">
-<img src="/assets/img/fig1-crop.png">
+<img src="/assets/img/blog/fig1-crop.png">
 <div class="caption"><strong>Figure 1:</strong> ALMA image of the dust disk around HD98800. The left panel shows the entire system while the right panel is zoomed in around the BaBb binary. White lines indicate the orbits of the stars. The resolution of the image is shown by the ellipse in the lower left corner. <em>Figure 1 in the paper.</em></div>
 </div>
 

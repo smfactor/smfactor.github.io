@@ -4,7 +4,7 @@ title: Moonetesimals likely form relatively quickly
 subtitle: reposted from astrobites.org
 author: Sam Factor
 tags: [ALMA, circumplanetary disks, exomoons, exoplanets, giant planets, moons, observations, planet formation, planetessimals, radio astronomy]
-image: /assets/img/blog/astro2020_deps_193037_0.jpg
+image: /assets/img/blog/Figure_upper_limits_Mdust_age_new_3.png
 ---
 <strong>Title:</strong>&nbsp;<a href="https://arxiv.org/abs/1906.11774">Upper limits on protolunar disc masses using ALMA observations of directly-imaged exoplanets</a>
 
@@ -21,12 +21,12 @@ The moon systems around the giant planets in our own solar system are surprising
 This paper presented new ALMA observations of four young <a href="https://astrobites.org/2013/06/09/lowest-mass-exoplanet-discovered-via-direct-imaging/">directly imaged</a> planets (PZ Tel b, AB Pic b, <a href="https://aasnova.org/2017/06/21/a-partly-cloudy-exoplanet/">51 Eri b</a>, and κ And b) searching for the thermal emission from warm (10's of K) dust in circumplanetary disks. Unfortunately they did not detect any emission above the background noise. Since the position of the planet is already known, they instead measured an upper limit. Using a relatively simple model of the disk, they converted this upper limit on the observed emission into an upper limit on the amount of dust in the disk. This is shown in Figure 1 along with previous measurements, which were also upper limits.
 
 <div class="img">
-<img src="/assets/img/Figure_upper_limits_Mdust_age_new_3.png">
+<img src="/assets/img/blog/Figure_upper_limits_Mdust_age_new_3.png">
 <div class="caption"><strong>Figure 1:</strong> Upper limits on the ratio of dust mass to planet mass as a function of stellar age. Modeled disk cutoff radii are 0.4 (left) and 0.04 (right) times the planet's <a href="https://en.wikipedia.org/wiki/Hill_sphere">Hill radius</a>. Dashed and dotted lines show slow and fast evolution models (changing the viscosity of the material), respectively. Color indicates the mass of the planet. <em>Figure 2 in the paper.</em></div>
 </div>
 
 <div class="img">
-<img src="/assets/img/Figure_lower_limits_dmax.png">
+<img src="/assets/img/blog/Figure_lower_limits_dmax.png">
 <div class="caption"><strong>Figure 2:</strong> Lower limits on the maximum diameter of solids in each target's disk based on observed upper limits and assuming a particle size distribution and a total mass of 10<sup>-4</sup> times the mass of the planet. <em>Figure 3 in the paper.</em></div>
 </div>
 
