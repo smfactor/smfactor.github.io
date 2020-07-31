@@ -32,3 +32,5 @@ Another talk that I found interesting was by Urvashi Rau, from the <a href="http
 One of the many interesting parts of the SPIE conference was that there was an event for the public one evening. Two of the plenary speakers, Sara Seager (MIT) and John Mather (NASA Goddard), gave talks about their research geared toward a non-scientist audience. I think that this is a great idea and more conferences should have similar events. If you are bringing in the world's leading experts on a topic for a conference, why not engage the public as well?
 
 I'd like to thank SPIE for giving me the opportunity to attend this conference. It was great to learn about, and share with you, some of the work that goes into the telescopes and instruments I and other astronomers take for granted.
+
+Read the origional post at [astrobites.org](https://astrobites.org/2018/06/25/spie_from_non-instrumentalist/).

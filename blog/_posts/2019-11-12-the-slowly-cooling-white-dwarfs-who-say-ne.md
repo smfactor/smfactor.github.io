@@ -7,10 +7,12 @@ tags: [Gaia, stellar evolution, white dwarfs]
 image: /assets/img/blog/WD_HR_70_aug15.png
 ---
 <strong>Title:</strong>&nbsp;<a href="https://arxiv.org/abs/1905.12710">A Cooling Anomaly of High-Mass White Dwarfs</a>
+
 <strong>Authors:</strong> Sihao Cheng (程思浩), Jeffrey D. Cummings, and Brice Ménard
+
 <strong>First Author’s Institution:</strong>&nbsp;Department of Physics and Astronomy, The Johns Hopkins University, Baltimore, MD
-<strong>Status:</strong>&nbsp;Accepted for publication in the Astrophysical Journal, <span style="font-weight: 400; color: #ff0000;">closed access</span><span style="font-weight: 400; color: #339966;">
-</span>
+
+<strong>Status:</strong>&nbsp;Accepted for publication in the Astrophysical Journal, <span style="font-weight: 400; color: #ff0000;">closed access</span>
 
 The European Space Agency's <a href="https://sci.esa.int/web/gaia">Gaia</a> mission has revolutionized astronomy, and will continue to do so as its mission progresses. Pristine color-magnitude (or <a href="https://sci.esa.int/web/gaia/-/60198-gaia-hertzsprung-russell-diagram">Hertzsprung-Russell</a>) diagrams can be made with the extremely precise distances the mission provides uncovering <a href="https://astrobites.org/2018/10/23/mind-the-gaia-gap/">new features</a>. Today's paper focuses on explaining some interesting features discovered in the white dwarf sequence seen in Gaia's second data release (GDR2).
 
@@ -38,3 +40,5 @@ The authors propose that <sup>22</sup>Ne settling could be the source of the coo
 </div>
 
 While the author's statistical cooling delay model can replicate the observations, more work must be done to confirm if the proposed physical mechanism, <sup>22</sup>Ne settling, is the true cause of the cooling delay. Specifically this process must be incorporated into cooling models of massive white dwarfs. Gaia's precision measurements and extremely large sample size continue to raise interesting questions, and help us answer them. The bunch-up of white dwarfs examined in this paper would not be visible in a smaller or noisier sample of stars, demonstrating the wealth of knowledge that Gaia is capable of unlocking after only about half of its mission.
+
+Read the origional post at [astrobites.org](https://astrobites.org/2019/11/12/the-slowly-cooling-white-dwarfs-who-say-ne/).

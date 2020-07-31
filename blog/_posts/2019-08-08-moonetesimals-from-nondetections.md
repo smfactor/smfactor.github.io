@@ -34,3 +34,4 @@ Using a second model, this time for disk evolution, the authors compared the mas
 
 Given the ages of these systems, moonetesimal growth seems to happen on a timescale similar to the planet formation timescale of ~10 million years. Thus, we need longer and more sensitive observations focused on the youngest giant planets to detect these circumplanetary/protolunar disks. It is amazing what we can learn from (and how important it is to publish) a bunch of non-detections!
 
+Read the origional post at [astrobites.org](https://astrobites.org/2019/08/08/moonetesimals_from_nondetections/).

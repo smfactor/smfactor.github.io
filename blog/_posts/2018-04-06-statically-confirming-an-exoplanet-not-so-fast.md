@@ -34,3 +34,5 @@ To put some numbers to these arguments, the authors examined how well Robovetter
 To sum up, statistical confirmation of <strong>long-period</strong>, <strong>low SNR</strong> candidates should be taken with a grain of salt. These confirmations are still useful in large scale studies, as long as the lower reliability of candidates in this regime is taken into account. However, the reliability of these methods is too low to confirm individual systems without followup observations and the 99% confidence validation of Kepler-452b is likely closer to 90%.
 
 (Answer to the caption of <a href="#transit_comparison">Figure 1</a>: Top row is Kepler-452b, bottom row is an inverted light curve.)
+
+Read the origional post at [astrobites.org](https://astrobites.org/2018/04/06/statistically_confirming_earth-like_planet_not_so_fast/).
