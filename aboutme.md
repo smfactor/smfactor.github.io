@@ -10,7 +10,7 @@ I help organize Astronomy on Tap ATX, a monthly free public event presenting ast
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ufrcnPitL6A" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/edwb7A2U_Ic" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+### My story
 
 I enjoy hiking and camping in what little free time I have. I also dabble in astrophotography. Below are a few pictures I took. (More to come, including pictures of the recent solar eclipse from Grand Teton National Park!)
 
