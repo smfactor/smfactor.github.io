@@ -3,7 +3,7 @@ layout: post
 title: New Directly Imaged Planet Challenges Planet Formation Theories
 subtitle: reposted from astrobites.org
 author: Sam Factor
-tags: planets direct-imaging exoplanets planet-formation planetary-migration
+tags: [planets, direct-imaging, exoplanets, planet-formation, planetary-migration]
 image: /assets/img/blog/HIP65426_thumb.png
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Directly measuring the mass of an imaged planet
 subtitle: reposted from astrobites.org
 author: Sam Factor
-tags: astrometry Beta-Pictoris direct-imaging exoplanets Gaia Jupiter-like-exoplanets
+tags: [astrometry, Beta-Pictoris, direct-imaging, exoplanets, Gaia, Jupiter-like-exoplanets]
 image: /assets/img/blog/Beta_Pictoris_system_annotated.jpg
 ---
 

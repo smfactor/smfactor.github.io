@@ -3,7 +3,7 @@ layout: post
 title: What proof do you have that planets are made from gas and dust?
 subtitle: reposted from askanastronomer.org
 author: Sam Factor
-tags: planets
+tags: [planets]
 image: /assets/img/blog/ppdisk_thumb.jpg
 ---
 

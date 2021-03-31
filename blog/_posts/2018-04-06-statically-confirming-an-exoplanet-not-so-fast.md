@@ -3,7 +3,7 @@ layout: post
 title: Statistically Confirming an Earth-Like Planet? Not So Fast!
 subtitle: reposted from astrobites.org
 author: Sam Factor
-tags: Earth-like-exoplanets exoplanets Kepler KOI statistics Transit-method transiting-planets transits
+tags: [Earth-like-exoplanets, exoplanets, Kepler, KOI, statistics, Transit-method, transiting-planets, transits]
 image: /assets/img/blog/invV452_thumb.png
 ---
 <strong>Title:</strong> <a href="https://arxiv.org/abs/1803.11307">Kepler's Earth-like Planets Should Not Be Confirmed Without Independent Detection: The Case of Kepler-452b</a>

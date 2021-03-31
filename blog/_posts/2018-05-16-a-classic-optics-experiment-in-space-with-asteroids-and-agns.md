@@ -3,7 +3,7 @@ layout: post
 title: A classic optics experiment, in space with asteroids and AGNs!
 subtitle: reposted from astrobites.org
 author: Sam Factor
-tags: asteroids diffraction Interferometry occultations radio-astrometry
+tags: [asteroids, diffraction, Interferometry, occultations, radio-astrometry]
 image: /assets/img/blog/palma_fg12cropped.jpg
 ---
 

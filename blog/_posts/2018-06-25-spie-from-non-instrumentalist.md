@@ -3,7 +3,7 @@ layout: post
 title: SPIE From the Perspective of a Non-Instrumentalist
 subtitle: reposted from astrobites.org
 author: Sam Factor
-tags: equity-and-inclusion instrumentation interferometry optical-interferometry space-missions spie
+tags: [equity-and-inclusion, instrumentation, interferometry, optical-interferometry, space-missions, spie]
 image: /assets/img/blog/IMG_6280K.jpg
 ---
 

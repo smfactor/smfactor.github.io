@@ -3,7 +3,7 @@ layout: post
 title: Imaged Companion Drives Spiral Arms in Disk
 subtitle: reposted from astrobites.org
 author: Sam Factor
-tags: astrometry binary-stars computer-simulations numerical-simulations observations planet-formation protoplanetary-disks radio-astronomy simulations star-formation
+tags: [astrometry, binary-stars, computer-simulations, numerical-simulations, observations, planet-formation, protoplanetary-disks, radio-astronomy, simulations, star-formation]
 image: /assets/img/blog/HD100453_thumb.jpg
 ---
 
