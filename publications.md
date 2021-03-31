@@ -13,6 +13,7 @@ Check out my answers and ask your own question at [askanastronomer.org](http://a
 
 ## Publications
 
+* Mann, A. W. et al 2019 *The Astrophysical Journal*, 871, 63, "[How to Constrain Your M Dwarf. II. The Mass–Luminosity–Metallicity Relation from 0.075 to 0.70 Solar Masses"](https://ui.adsabs.harvard.edu/abs/2019ApJ...871...63M/abstract) (**10th author**)
 * **S. Factor**, A. M. Hughes, K. Flaherty, R. K. Mann, J. Di Francesco, J. P. Williams, L. Ricci, B. C. Matthews, J. Bally, D. Johnstone, *AJ*, 153, 233 "[ALMA Observations of Asymmetric Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula](http://adsabs.harvard.edu/abs/2017AJ....153..233F)"
 * J. M. Lee, **S. Factor**, Z. Lin, I. Vitebskiy, F. Ellis, T. Kottos, "[Reconfigurable directional lasing modes in cavities with generalized $$\mathcal{P}\tilde{\mathcal{T}}$$ Symmetry](http://adsabs.harvard.edu/abs/2014PhRvL.112y3902L)," *Phys. Rev. Lett.*, vol 112, p. 253902, Jun 2014
 * M. Chitsazi, **S. Factor**, J. Schindler, H. Ramezani, F. M. Ellis and T. Kottos, "[Experimental observation of lasing shutdown via asymmetric gain](http://adsabs.harvard.edu/abs/2014PhRvA..89d3842C)," *Phys. Rev. A*, vol. 89, p. 043842, Apr 2014
@@ -20,6 +21,8 @@ Check out my answers and ask your own question at [askanastronomer.org](http://a
 
 ## Posters and Presentations
 
+* Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/CS20p5Poster.pdf)), *20.5th Cambridge Workshops of Cool Stars, Stellar Systems and the Sun*, March 2021, Virtual 
+* Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/ESSIVPoster.pdf)), *Extreme Solar Systems IV*, August 2019, Reykjavik, Iceland 
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/CS20Poster.pdf)), *20th Cambridge Workshops of Cool Stars, Stellar Systems and the Sun*, August 2018, Boston, MA
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/SPF2Poster.pdf)), *Star and Planet Formation in the Southwest*, March 2018, Oracle, AZ
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/AASPoster.pdf) number 118.03, [abstract](http://adsabs.harvard.edu/abs/2017AAS...23011803F)), *230th Meeting of the American Astronomical Society*, June 2017, Austin, TX
