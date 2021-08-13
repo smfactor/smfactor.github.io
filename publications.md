@@ -21,7 +21,7 @@ Check out my answers and ask your own question at [askanastronomer.org](http://a
 
 ## Posters and Presentations
 
-* A NICMOS Kernel-Phase Interferometry Survey of Brown-Dwarf Binary Demographics ([talk](/assets/pubs/factor.mp4)), *[Virtual Masking Hackathon](https://sites.google.com/uci.edu/virtualmaskinghackathon/home)*, June 2021, Virtual
+* A NICMOS Kernel-Phase Interferometry Survey of Brown-Dwarf Binary Demographics ([talk](https://drive.google.com/file/d/1vVPNLd2eT12pVJnRhTFYX5jqAVCRl_wg/view)), *[Virtual Masking Hackathon](https://sites.google.com/uci.edu/virtualmaskinghackathon/home)*, June 2021, Virtual
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/CS20p5Poster.pdf)), *20.5th Cambridge Workshops of Cool Stars, Stellar Systems and the Sun*, March 2021, Virtual 
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/ESSIVPoster.pdf)), *Extreme Solar Systems IV*, August 2019, Reykjavik, Iceland 
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/CS20Poster.pdf)), *20th Cambridge Workshops of Cool Stars, Stellar Systems and the Sun*, August 2018, Boston, MA
