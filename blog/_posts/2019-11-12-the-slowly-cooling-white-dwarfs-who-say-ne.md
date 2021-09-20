@@ -41,4 +41,4 @@ The authors propose that <sup>22</sup>Ne settling could be the source of the coo
 
 While the author's statistical cooling delay model can replicate the observations, more work must be done to confirm if the proposed physical mechanism, <sup>22</sup>Ne settling, is the true cause of the cooling delay. Specifically this process must be incorporated into cooling models of massive white dwarfs. Gaia's precision measurements and extremely large sample size continue to raise interesting questions, and help us answer them. The bunch-up of white dwarfs examined in this paper would not be visible in a smaller or noisier sample of stars, demonstrating the wealth of knowledge that Gaia is capable of unlocking after only about half of its mission.
 
-Read the origional post at [astrobites.org](https://astrobites.org/2019/11/12/the-slowly-cooling-white-dwarfs-who-say-ne/).
+Read the origional post at [astrobites.org](https://astrobites.org/2019/11/12/the-slowly-cooling-white-dwarfs-who-say-ne/) or at [aasnova.org](https://aasnova.org/2019/11/19/the-slowly-cooling-white-dwarfs-who-say-ne/).
