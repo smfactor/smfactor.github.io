@@ -25,7 +25,7 @@ The next steps of this project will be to apply the kernel-phase interferometry 
 |:---:|:---:|
 | HST aperture model | Baselines from the model colored by redundancy |
 
-| [![HST Image Analysis](../assets/img/4plt.png){: class="image-100"}](../assets/img/4plt.pdf) | [![Corner Plot](../assets/img/testCorner.png){: class="image-100"}](../assets/img/testCorner.pdf) |
+| [![HST Image Analysis](../assets/img/4plt.png){: class="image-100"}](../assets/img/4plt.pdf) | [![Corner Plot](../assets/img/cornerCor.png){: class="image-100"}](../assets/img/cornerCor.pdf) |
 |:---:|:---:|
 |HST Image of a binary star system (top left), Fourier amplitude and phase with baselines overlayed in gray (bottom row), and histogram of the kernel-phases (top right) | 1 and 2D posteriors from fitting the Kernel-phases (lower left) and correlation plots showing the goodnes of fit in the two filters (upper right). |
 
