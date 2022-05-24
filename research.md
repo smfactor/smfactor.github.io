@@ -16,9 +16,9 @@ cover-img:
 ### Kernel-phase interferometry for imaging beyond the diffraction limit
 
 I currently work with Adam Kraus at the University of Texas at Austin applying interferometric analysis techniques to archival data to detect close in companions, binary stars or exoplanets. This technique models the full aperture of the telescope as an array of sub-apertures. This model is then used to analyze images in the Fourier domain by simulating a redundant interferometer. The figures below show the aperture model, and the progression from  images, to Fourier amplitude and phase, to kernel-phase, and finally to fitted astrometry and photometry. 
-This target demonstrates the power of kernel-phase analysis by detecting a binary at $$ \sim90 $$ miliarcseconds, just over $$ 0.5\,\lambda/D $$ for *HST*, at a contrast of $$ \sim8\!:\!1\! $$. I am PI of cycle 24 Hubble Space Telescope Archival Research Grant number 14561 to support this work.
+This target demonstrates the power of kernel-phase analysis by detecting a binary at $$ \sim90 $$ miliarcseconds, just over $$ 0.5\,\lambda/D $$ for *HST*, at a contrast of $$ \sim8\!:\!1\! $$. I am PI of cycle 24 Hubble Space Telescope Archival Research Grant number 14561 to support this work. This project has one publication currently under review and another in prep. My kernel-phase interferometry pipeline, named Argus, can be found here: [ihttps://github.com/smfactor/argus](https://github.com/smfactor/argus) (tutorials are under construction).
 
-The next steps of this project will be to apply the kernel-phase interferometry technique to ACS/HRC imaging of young stars to search for newly formed planets (supported by cycle 29 HST Archival Research program 16612 which I am PI of). The cycle 1 JWST Archival Research program 2509 will continue this work, assessing the technique for use with JSWT imaging (I am also PI of this project).
+The next steps of this project will be to apply the kernel-phase interferometry technique to ACS/HRC imaging of young stars to search for newly formed planets (supported by cycle 29 HST Archival Research program 16612 which I am PI of). My cycle 1 JWST Archival Research program 2509 will continue this work, assessing the technique for use with JSWT imaging (I am also PI of this project).
 
 
 | [![HST model](../assets/img/mask.png){: class="image-100" }](../assets/img/mask.pdf) | [![Baselines](../assets/img/baselines.png){: class="image-100" }](../assets/img/baselines.pdf) |
@@ -27,7 +27,7 @@ The next steps of this project will be to apply the kernel-phase interferometry 
 
 | [![HST Image Analysis](../assets/img/4plt.png){: class="image-100"}](../assets/img/4plt.pdf) | [![Corner Plot](../assets/img/cornerCor.png){: class="image-100"}](../assets/img/cornerCor.pdf) |
 |:---:|:---:|
-|HST Image of a binary star system (top left), Fourier amplitude and phase with baselines overlayed in gray (bottom row), and histogram of the kernel-phases (top right) | 1 and 2D posteriors from fitting the Kernel-phases (lower left) and correlation plots showing the goodnes of fit in the two filters (upper right). |
+|HST Image of a binary star system (top left), Fourier amplitude and phase with baselines overlayed in gray (bottom row), and histogram of the kernel-phases (top right) | 1 and 2D posteriors from fitting a binary model (separation, position, and contrast in each filter) to the Kernel-phases (lower left) and correlation plots showing the goodnes of fit in the two filters (upper right) to the immage in tne far upper right. |
 
 # Master's thesis at Wesleyan:
 

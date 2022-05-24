@@ -13,19 +13,23 @@ Check out my answers and ask your own question at [askanastronomer.org](http://a
 
 ## Publications
 
-* Mann, A. W. et al. 2019 *The Astrophysical Journal*, 871, 63, "[How to Constrain Your M Dwarf. II. The Mass–Luminosity–Metallicity Relation from 0.075 to 0.70 Solar Masses"](https://ui.adsabs.harvard.edu/abs/2019ApJ...871...63M/abstract) (**10th author**)
-* **S. Factor**, A. M. Hughes, K. Flaherty et al. 2017, *The Astronomical Journal*, 153, 233 "[ALMA Observations of Asymmetric Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula](http://adsabs.harvard.edu/abs/2017AJ....153..233F)"
+* **S. Factor** & Adam L. Kraus (in prep.) "NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs" 
+* **S. Factor** & Adam L. Kraus, 2022 (under review) *The Astronomical Journal* "NICMOS Kernel-Phase Interferometry I: Catalogue of Brown Dwarfs Observed in F110W and F170M"
+* Mann, A. W. et al. (including **S. Factor**, 10th author), 2019 *The Astrophysical Journal*, 871, 63, "[How to Constrain Your M Dwarf. II. The Mass–Luminosity–Metallicity Relation from 0.075 to 0.70 Solar Masses"](https://ui.adsabs.harvard.edu/abs/2019ApJ...871...63M/abstract) 
+* **S. Factor**, A. M. Hughes, K. Flaherty et al., 2017, *The Astronomical Journal*, 153, 233 "[ALMA Observations of Asymmetric Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula](http://adsabs.harvard.edu/abs/2017AJ....153..233F)"
 * J. M. Lee, **S. Factor**, Z. Lin, I. Vitebskiy, F. Ellis, T. Kottos, "[Reconfigurable directional lasing modes in cavities with generalized $$\mathcal{P}\tilde{\mathcal{T}}$$ Symmetry](http://adsabs.harvard.edu/abs/2014PhRvL.112y3902L)," *Phys. Rev. Lett.*, vol 112, p. 253902, Jun 2014
 * M. Chitsazi, **S. Factor**, J. Schindler, H. Ramezani, F. M. Ellis and T. Kottos, "[Experimental observation of lasing shutdown via asymmetric gain](http://adsabs.harvard.edu/abs/2014PhRvA..89d3842C)," *Phys. Rev. A*, vol. 89, p. 043842, Apr 2014
 * N. Bender, **S. Factor**, J. D. Bodyfelt, H. Ramezani, D. N. Christodulides, F. M Ellis, and T. Kottos, "[Observation of asymmetric transport in structures with active nonlinearities](http://adsabs.harvard.edu/abs/2013PhRvL.110w4101B)," *Phys. Rev. Lett.*, vol. 110, p. 234101, June 2013
 
 ## Posters and Presentations
-
+* A NICMOS Kernel-Phase Interferometry Survey of Brown-Dwarf Binary Demographics (invited talk), *CfA Stars & Planets Seminar*, December 2021, Center for Astrophysics, Cambridge, MA
+* A NICMOS Kernel-Phase Interferometry Survey of Brown-Dwarf Binary Demographics (invited talk), *Stars and Planets Lunch And Talks (SPLAT)*, November 2021, Institute for Astronomy, Manoa, HI
 * A NICMOS Kernel-Phase Interferometry Survey of Brown-Dwarf Binary Demographics ([talk](https://drive.google.com/file/d/1vVPNLd2eT12pVJnRhTFYX5jqAVCRl_wg/view)), *[Virtual Masking Hackathon](https://sites.google.com/uci.edu/virtualmaskinghackathon/home)*, June 2021, Virtual
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/CS20p5Poster.pdf)), *20.5th Cambridge Workshops of Cool Stars, Stellar Systems and the Sun*, March 2021, Virtual 
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/ESSIVPoster.pdf)), *Extreme Solar Systems IV*, August 2019, Reykjavik, Iceland 
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/CS20Poster.pdf)), *20th Cambridge Workshops of Cool Stars, Stellar Systems and the Sun*, August 2018, Boston, MA
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/SPF2Poster.pdf)), *Star and Planet Formation in the Southwest*, March 2018, Oracle, AZ
+* Are we alone? Finding and characterizing planets around other stars (invited talk), *McDonald Observatory Board of Visitors Recruiting Event*, February, 2018, Houstion, TX
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/AASPoster.pdf) number 118.03, [abstract](http://adsabs.harvard.edu/abs/2017AAS...23011803F)), *230th Meeting of the American Astronomical Society*, June 2017, Austin, TX
 * Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/AASPoster.pdf) number 146.25, [abstract](http://adsabs.harvard.edu/abs/2017AAS...22914625F)), *229th Meeting of the American Astronomical Society*, January 2017, Grapevine, TX
 * Why git is awesome and why we should all be using it ([slides](/assets/pubs/git_GSPS_11-04-16.pdf)), [*UT Austin Graduate Student Postdoc Seminar*](https://ottostruve.github.io/gsps/), November 2016, Austin, TX 

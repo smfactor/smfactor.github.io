@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The slowly cooling white dwarfs who say Ne!
-subtitle: reposted from astrobites.org
+subtitle: reposted from astrobites.org and featured on aasnova.org
 author: Sam Factor
 tags: [Gaia, stellar evolution, white dwarfs]
 image: /assets/img/blog/WD_HR_70_aug15.png
