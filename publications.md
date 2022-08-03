@@ -23,6 +23,7 @@ Check out my answers and ask your own question at [askanastronomer.org](http://a
 * N. Bender, **S. Factor**, J. D. Bodyfelt, H. Ramezani, D. N. Christodulides, F. M Ellis, and T. Kottos, "[Observation of asymmetric transport in structures with active nonlinearities](http://adsabs.harvard.edu/abs/2013PhRvL.110w4101B)," *Phys. Rev. Lett.*, vol. 110, p. 234101, June 2013
 
 ## Posters and Presentations
+* HST Kernel-Phase Interferometry: Field-Age Brown Dwarf Population Demographics ([poster](/assets/pubs/CS21Poster.pdf)), *21st Cambridge Workshops of Cool Stars, Stellar Systems and the Sun*, July 2022, Toulouse, France 
 * A NICMOS Kernel-Phase Interferometry Survey of Brown-Dwarf Binary Demographics (invited talk), *CfA Stars & Planets Seminar*, December 2021, Center for Astrophysics, Cambridge, MA
 * A NICMOS Kernel-Phase Interferometry Survey of Brown-Dwarf Binary Demographics (invited talk), *Stars and Planets Lunch And Talks (SPLAT)*, November 2021, Institute for Astronomy, Manoa, HI
 * A NICMOS Kernel-Phase Interferometry Survey of Brown-Dwarf Binary Demographics ([talk](https://drive.google.com/file/d/1vVPNLd2eT12pVJnRhTFYX5jqAVCRl_wg/view)), *[Virtual Masking Hackathon](https://sites.google.com/uci.edu/virtualmaskinghackathon/home)*, June 2021, Virtual
