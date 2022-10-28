@@ -13,7 +13,7 @@ Check out my answers and ask your own question at [askanastronomer.org](http://a
 
 ## Publications
 
-* **S. Factor** & Adam L. Kraus (in prep.) "NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs" 
+* **S. Factor** & Adam L. Kraus (submitted) "NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs" 
 * **S. Factor** & Adam L. Kraus, 2022, *The Astronomical Journal* (in press) "[NICMOS Kernel-Phase Interferometry I: Catalogue of Brown Dwarfs Observed in F110W and F170M](https://ui.adsabs.harvard.edu/abs/2022arXiv220807872F)"
 * S. Hinkley (including **S. Factor**), 2022, *Publications of the Astronomical Society of the Pacific* (in press) "[The JWST Early Release Science Program for the Direct Imaging & Spectroscopy of Exoplanetary Systems](https://ui.adsabs.harvard.edu/abs/2022arXiv220512972H)"
 * A. W. Mann et al. (including **S. Factor**, 10th author), 2019, *The Astrophysical Journal*, 871, 63, "[How to Constrain Your M Dwarf. II. The Mass–Luminosity–Metallicity Relation from 0.075 to 0.70 Solar Masses"](https://ui.adsabs.harvard.edu/abs/2019ApJ...871...63M)
