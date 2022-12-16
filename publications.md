@@ -13,10 +13,12 @@ Check out my answers and ask your own question at [askanastronomer.org](http://a
 
 ## Publications
 
-* **S. Factor** & Adam L. Kraus (in prep.) "NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs" 
-* **S. Factor** & Adam L. Kraus, 2022, *The Astronomical Journal* (submitted) "NICMOS Kernel-Phase Interferometry I: Catalogue of Brown Dwarfs Observed in F110W and F170M"
-* S. Hinkley (including **S. Factor**), 2022, *Publications of the Astronomical Society of the Pacific* (in press) "[The JWST Early Release Science Program for the Direct Imaging & Spectroscopy of Exoplanetary Systems"](https://ui.adsabs.harvard.edu/abs/2022arXiv220512972H/abstract) 
-* A. W. Mann et al. (including **S. Factor**, 10th author), 2019, *The Astrophysical Journal*, 871, 63, "[How to Constrain Your M Dwarf. II. The Mass–Luminosity–Metallicity Relation from 0.075 to 0.70 Solar Masses"](https://ui.adsabs.harvard.edu/abs/2019ApJ...871...63M/abstract) 
+* **S. Factor** & Adam L. Kraus, 2022, *The Astronomical Journal* (in pres.) "[NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs](https://ui.adsabs.harvard.edu/abs/2022arXiv221116481F)" 
+* **S. Factor** & Adam L. Kraus, 2022, *The Astronomical Journal*, 164, 244 "[NICMOS Kernel-Phase Interferometry I: Catalogue of Brown Dwarfs Observed in F110W and F170M](https://ui.adsabs.harvard.edu/abs/2022AJ....164..244F)"
+* A. Carter et al. (incl. **S. Factor**), (submitted), "[The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 μm](https://ui.adsabs.harvard.edu/abs/2022arXiv220814990C)"
+* B. Miles et al. (incl. **S. Factor**), (submitted), "[The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems II: A 1 to 20 Micron Spectrum of the Planetary-Mass Companion VHS 1256-1257 b](https://ui.adsabs.harvard.edu/abs/2022arXiv220900620M)"
+* S. Hinkley (including **S. Factor**), 2022, *Publications of the Astronomical Society of the Pacific*,134, 09500, "[The JWST Early Release Science Program for the Direct Imaging & Spectroscopy of Exoplanetary Systems](https://ui.adsabs.harvard.edu/abs/2022PASP..134i5003H)" 
+* A. W. Mann et al. (including **S. Factor**, 10th author), 2019, *The Astrophysical Journal*, 871, 63, "[How to Constrain Your M Dwarf. II. The Mass–Luminosity–Metallicity Relation from 0.075 to 0.70 Solar Masses](https://ui.adsabs.harvard.edu/abs/2019ApJ...871...63M)" 
 * **S. Factor**, A. M. Hughes, K. Flaherty et al., 2017, *The Astronomical Journal*, 153, 233 "[ALMA Observations of Asymmetric Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula](http://adsabs.harvard.edu/abs/2017AJ....153..233F)"
 * J. M. Lee, **S. Factor**, Z. Lin, I. Vitebskiy, F. Ellis, T. Kottos, "[Reconfigurable directional lasing modes in cavities with generalized $$\mathcal{P}\tilde{\mathcal{T}}$$ Symmetry](http://adsabs.harvard.edu/abs/2014PhRvL.112y3902L)," *Phys. Rev. Lett.*, vol 112, p. 253902, Jun 2014
 * M. Chitsazi, **S. Factor**, J. Schindler, H. Ramezani, F. M. Ellis and T. Kottos, "[Experimental observation of lasing shutdown via asymmetric gain](http://adsabs.harvard.edu/abs/2014PhRvA..89d3842C)," *Phys. Rev. A*, vol. 89, p. 043842, Apr 2014
