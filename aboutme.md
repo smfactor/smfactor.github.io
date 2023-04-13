@@ -4,13 +4,15 @@ title: About me
 subtitle: Outside of School
 ---
 
-Check out an interview I did with the Wesleyan Newsletter [here](http://newsletter.blogs.wesleyan.edu/2015/05/19/samfactor/).
-
 I help organize Astronomy on Tap ATX, a monthly free public event presenting astronomy talks in a bar. Here are my talks from December 2017 and July 2019:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ufrcnPitL6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/edwb7A2U_Ic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I also presented a few times for the "Astronomy in the News" section during AoT ATX [#43](https://youtu.be/xYzXdMva7AI), [#45](https://youtu.be/XgIGDIKunBk), and [#56](https://youtu.be/KIva_gwkyBg).
+
+Check out an interview I did with the Wesleyan Newsletter [here](http://newsletter.blogs.wesleyan.edu/2015/05/19/samfactor/).
 
 ### My story
 
