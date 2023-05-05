@@ -32,7 +32,7 @@ I caught the International Space Station transiting the sun just north of Austin
 
 ## Rowing
 
-Rowing plays an important role in my life. I have been rowing for 16 years, currently with a crew at [Austin Rowin Club](https://austinrowing.org/) where I also coach once a week. In High School, at Camp Randall Rowing Club, and in college, at Wesleyan University, I rowed competitively. In my Junior and Senior year of college I sat stroke seat of the 2nd Varsity 8+ at the New England Rowing Championships where we finished 3rd both years. Also in my senior year I sat 2 seat of our 1st varsity 8+ at the Head of the Charles Regatta and finished 5th in the Collegiate 8+ event. In high school I traveled to US Rowing Youth National championships 3 years in a row to compete in the light weight 4+ event. My junior year we finished 4th in the nation. 
+Rowing plays an important role in my life. I have been rowing for 17 years, currently with a crew at [Austin Rowin Club](https://austinrowing.org/) where I also coach once a week. In High School, at Camp Randall Rowing Club, and in college, at Wesleyan University, I rowed competitively. In my Junior and Senior year of college I sat stroke seat of the 2nd Varsity 8+ at the New England Rowing Championships where we finished 3rd both years. Also in my senior year I sat 2 seat of our 1st varsity 8+ at the Head of the Charles Regatta and finished 5th in the Collegiate 8+ event. In high school I traveled to US Rowing Youth National championships 3 years in a row to compete in the light weight 4+ event. My junior year we finished 4th in the nation. 
 
 Head of the Colorado (PumpkinHead), 2021, Mixed Masters 8+ (Stroke Seat)
 ![PumpkinHead](../assets/img/pumpkinhead8.jpg "PumpkinHead 2021 Mixed Masters 8+")
