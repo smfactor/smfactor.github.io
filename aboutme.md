@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Outside of School
+subtitle: Outside of Work and School
 ---
 
 I help organize Astronomy on Tap ATX, a monthly free public event presenting astronomy talks in a bar. Here are my talks from December 2017 and July 2019:
@@ -36,7 +36,7 @@ Rowing plays an important role in my life. I have been rowing for 17 years, curr
 
 Head of the Colorado (PumpkinHead), 2021, Mixed Masters 8+ (Stroke Seat)
 ![PumpkinHead](../assets/img/pumpkinhead8.jpg "PumpkinHead 2021 Mixed Masters 8+")
-New England Rowing Championships, 2015, JV 8+ (Stroke Seat)
+New England Rowing Championships, 2014, JV 8+ (Stroke Seat)
 ![NERC](../assets/img/NERC.jpg "New England Rowing Championships 2015 JV 8+")
-Head of the Charles, 2014, Collegiate 8+ (2 Seat)
+Head of the Charles, 2013, Collegiate 8+ (2 Seat)
 ![HOCR](../assets/img/HOCR.png "Head of the Charles 2014 Collegiate 8+")
