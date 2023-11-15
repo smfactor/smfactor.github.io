@@ -12,15 +12,15 @@ cover-img:
 ---
 {% include mathjs %}
 
-# Current Work at UT Austin:
+# Current Postoctoral Work at UT Austin:
 
 I am currently working to assess the detection limits of and best practices for applying Kernel Phase Interferometry to JSWT imaging. I applied this technique to multiple datasets in my dissertation work (see below) and am excited to explore it further on a new telescope. I am PI of cycle 1 JWST program AR-2509 which supports my current postdoctoral research.
 
 # Dissertation Work at UT Austin:
 
-### Kernel-phase interferometry for imaging beyond the diffraction limit
-
 My dissertation research was with Dr. Adam Kraus at the University of Texas at Austin applying interferometric analysis techniques to archival data to detect close in companions, binary stars or exoplanets. This technique models the full aperture of the telescope as an array of sub-apertures. This model is then used to analyze images in the Fourier domain by simulating a redundant interferometer. 
+
+### Kernel-phase interferometry for imaging beyond the diffraction limit
 
 The first project in this series was an archival binary search around old field brown dwarfs. The figures below show our aperture model, and the progression from  images, to Fourier amplitude and phase, to kernel-phase, and finally to fitted astrometry and photometry. This target demonstrates the power of kernel-phase analysis by detecting a binary at $$ \sim90 $$ miliarcseconds, just over $$ 0.5\,\lambda/D $$ for *HST*, at a contrast of $$ \sim8\!:\!1\! $$. This project has two accepted publications, one detailing the binary search and another analyzing the population demographics of the catalogue. My kernel-phase interferometry pipeline, named Argus, can be found here: [https://github.com/smfactor/argus](https://github.com/smfactor/argus) (tutorials are under construction). 
 
@@ -30,9 +30,13 @@ The first project in this series was an archival binary search around old field 
 
 | [![HST Image Analysis](../assets/img/4plt.png){: class="image-100"}](../assets/img/4plt.pdf) | [![Corner Plot](../assets/img/cornerCor.png){: class="image-100"}](../assets/img/cornerCor.pdf) |
 |:---:|:---:|
-|HST Image of a binary star system (top left), Fourier amplitude and phase with baselines overlayed in gray (bottom row), and histogram of the kernel-phases (top right) | 1 and 2D posteriors from fitting a binary model (separation, position, and contrast in each filter) to the Kernel-phases (lower left) and correlation plots showing the goodnes of fit in the two filters (upper right) to the immage in tne far upper right. |
+|HST Image of a binary star system (top left), Fourier amplitude and phase with baselines overlayed in gray (bottom row), and histogram of the kernel-phases (top right) | 1 and 2D posteriors from fitting a binary model (separation, position, and contrast in each filter) to the Kernel-phases (lower left) and correlation plots showing the goodnes of fit in the two filters (upper right) to the immage in the far upper right. |
+
+### Binary Demographics of Nearby Field-Age Brown Dwarfs
 
 I then conducted a demographic analysis of this catalogue to infer the underlying binary brown dwarf population. The results of this 4 parameter fit (companion frequency $$ F $$, mass-ratio power-law index $$ \gamma $$, and log-normal separation mean $$ \overline{\log(\rho)} $$ and standard deviation $$ \sigma_{\overline{\log(\rho)}} $$) are shown below in the context of previous surveys of similar objects and literature values as a funciton of primary mass. We find a strong preference for tight and equal mass systems. I am PI of cycle 24 Hubble Space Telescope program AR-14561 which supported these two projects.
+
+### Young Low Mass Binaries in Taurus and Upper Scorpius
 
 The final project in my dissertation was to apply a modified version of the same kernel-phase interferometry pipeline to ACS/HRC imaging of young very low mass objects in Taurus and Upper Scorpius to search for newly formed planets. We have detected a few (preliminary) new candidate companions and performed the same demographic analysis as above to this young population. We then compared the young population to the field and find an excess of young wide separation companions, indicating dynamical evolution significantly sculpts the population. A publication on this work is in prep and was supported by cycle 29 HST program AR-16612 which I am PI of. 
 

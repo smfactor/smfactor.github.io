@@ -11,7 +11,7 @@ cover-img:
   - "/assets/img/big-imgs/JWSTDI.png" : "HIP 65426 b, Credit: NASA/ESA/CSA, A. Carter (UCSC), the ERS 1386 team, and A. Pagan (STScI)"
 ---
 
-I am a postdoctoral fellow in the Astronomy department at The University of Texas at Austin. I work with Professor Adam Kraus on direct imaging of brown dwarfs and extrasolar planets using a novel image analysis technique and the Hubble Space Telescope and JWST. 
+I am a postdoctoral fellow in the Astronomy department at The University of Texas at Austin. I work with Professor Adam Kraus on direct imaging of brown dwarfs and extrasolar planets using a novel image analysis technique called kernel-phase interferometry. I apply this technique to imaging from the Hubble Space Telescope and JWST to detect companions to low mass stars at separations below the classical diffraction limit. 
 
 I recently received my Ph.D. in astronomy from The University of Texas at Austinin 2023. Previously, I received my B.A. in physics and computer science from Wesleyan University in 2014 and my M.A. in astronomy in 2015 as part of Wesleyan's 5 year combined BA/MA program.
 
