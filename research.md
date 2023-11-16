@@ -8,7 +8,7 @@ cover-img:
   - "/assets/img/big-imgs/alma-starry-night.jpg" : "ALMA, Credit: ESO"
   - "/assets/img/big-imgs/hltau.jpg" : "HL Tau, Credit: ALMA"
   - "/assets/img/big-imgs/SMA.jpg" : "SMA, Credit: CfA"
-  - "/assets/img/big-imgs/JWSTDI.png" : "JWST image of HIP 65426 b, Credit: NASA/ESA/CSA, A. Carter (UCSC), the ERS 1386 team, and A. Pagan (STScI)"
+  - "/assets/img/big-imgs/JWSTDI.jpg" : "JWST image of HIP 65426 b, Credit: NASA/ESA/CSA, A. Carter (UCSC), the ERS 1386 team, and A. Pagan (STScI)"
 ---
 {% include mathjs %}
 

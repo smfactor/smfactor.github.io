@@ -8,7 +8,7 @@ cover-img:
   - "/assets/img/big-imgs/alma-starry-night.jpg" : "ALMA, Credit: ESO"
   - "/assets/img/big-imgs/hltau.jpg" : "HL Tau, Credit: ALMA"
   - "/assets/img/big-imgs/SMA.jpg" : "SMA, Credit: CfA"
-  - "/assets/img/big-imgs/JWSTDI.png" : "JWST image of HIP 65426 b, Credit: NASA/ESA/CSA, A. Carter (UCSC), the ERS 1386 team, and A. Pagan (STScI)"
+  - "/assets/img/big-imgs/JWSTDI.jpg" : "JWST image of HIP 65426 b, Credit: NASA/ESA/CSA, A. Carter (UCSC), the ERS 1386 team, and A. Pagan (STScI)"
 ---
 
 I am a postdoctoral fellow in the Astronomy department at The University of Texas at Austin. I work with Professor Adam Kraus on direct imaging of brown dwarfs and extrasolar planets using a novel image analysis technique called kernel-phase interferometry. I apply this technique to imaging from the Hubble Space Telescope and JWST to detect companions to low mass stars at separations below the classical diffraction limit. 
