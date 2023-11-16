@@ -13,7 +13,7 @@ Check out my answers and ask your own question at [askanastronomer.org](http://a
 
 ## Publications
 
-* **S. Factor** & A. Kraus, 2023, *The Astronomical Journal*, 165, 130 "[NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs](https://ui.adsabs.harvard.edu/abs/2023aJ....165..130F)" 
+* **S. Factor** & A. Kraus, 2023, *The Astronomical Journal*, 165, 130 "[NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs](https://ui.adsabs.harvard.edu/abs/2023AJ....165..130F)" 
 * **S. Factor** & A. Kraus, 2022, *The Astronomical Journal*, 164, 244 "[NICMOS Kernel-Phase Interferometry I: Catalogue of Brown Dwarfs Observed in F110W and F170M](https://ui.adsabs.harvard.edu/abs/2022AJ....164..244F)"
 * S. Ray et al. (incl. **S. Factor** 12/123 authors), (submitted to ApJ Letters), "[The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems III: Aperture Masking Interferometric Observations of the star HIP 65426 at 3.8μm](https://ui.adsabs.harvard.edu/abs/2023arXiv231011508R)"
 * S. Sallum et al. (incl. **S. Factor** 9/123 authors), (submitted to AAS Journals), "[The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems IV: NIRISS Aperture Masking Interferometry Performance and Lessons Learned](https://ui.adsabs.harvard.edu/abs/2023arXiv231011499S)"
