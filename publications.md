@@ -28,6 +28,7 @@ Check out my answers and ask your own question at [askanastronomer.org](http://a
 * N. Bender, **S. Factor**, J. D. Bodyfelt, H. Ramezani, D. N. Christodulides, F. M Ellis, and T. Kottos, "[Observation of asymmetric transport in structures with active nonlinearities](https://ui.adsabs.harvard.edu/abs/2013PhRvL.110w4101B)," *Phys. Rev. Lett.*, vol. 110, p. 234101, June 2013
 
 ## Posters and Presentations
+* Kernel-Phase Interferometry for Detection of Close in Companions: Binary Demographics of Brown Dwarfs from Birth to Maturity (talk number 432.04D), *243rd Meeting of the American Astronomical Society*, January 2024, New Orleans, LA
 * HST Kernel-Phase Interferometry: Binary Brown Dwarf Demographics from Birth to Maturity ([poster](/assets/pubs/GMTposter.pdf)), *Exoplanets: Asmospheres to Architectures, 9th Annual GMT Community Science Meeting*, September 2023, Washington, DC
 * HST Kernel-Phase Interferometry: Field-Age Brown Dwarf Population Demographics ([poster](/assets/pubs/CS21Poster.pdf)), *21st Cambridge Workshops of Cool Stars, Stellar Systems and the Sun*, July 2022, Toulouse, France 
 * A NICMOS Kernel-Phase Interferometry Survey of Brown-Dwarf Binary Demographics (invited talk), *CfA Stars & Planets Seminar*, December 2021, Center for Astrophysics, Cambridge, MA
