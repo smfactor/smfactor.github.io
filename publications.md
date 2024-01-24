@@ -12,6 +12,7 @@ Check out my paper summaries on [astrobites.org](https://astrobites.org/author/s
 Check out my answers and ask your own question at [askanastronomer.org](http://askanastronomer.org/byauthor/?author=Sam+Factor).
 
 ## Publications
+I have been an anonymous referee for The Astrophysical Journal.
 
 * **S. Factor** & A. Kraus, 2023, *The Astronomical Journal*, 165, 130 "[NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs](https://ui.adsabs.harvard.edu/abs/2023AJ....165..130F)" 
 * **S. Factor** & A. Kraus, 2022, *The Astronomical Journal*, 164, 244 "[NICMOS Kernel-Phase Interferometry I: Catalogue of Brown Dwarfs Observed in F110W and F170M](https://ui.adsabs.harvard.edu/abs/2022AJ....164..244F)"
