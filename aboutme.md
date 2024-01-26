@@ -16,7 +16,7 @@ Check out an interview I did with the Wesleyan Newsletter [here](http://newslett
 
 ### My story
 
-I enjoy hiking and camping in what little free time I have. I also dabble in astrophotography. Below are a few pictures I took. (More to come, including pictures of the 2017 solar eclipse from Grand Teton National Park!)
+I enjoy hiking and camping in my free time. I also dabble in astrophotography. Below are a few pictures I took. (More to come, including pictures of the 2017 solar eclipse from Grand Teton National Park!)
 
 The Orion Nebula from Mauna Kea VIS, HI (Nikon D5200 300mm f/6.3 59x2sec ISO:6400)
 ![ASTOri](../assets/img/Stack.jpg "The Orion Nebula")
@@ -40,3 +40,9 @@ New England Rowing Championships, 2014, JV 8+ (Stroke Seat)
 ![NERC](../assets/img/NERC.jpg "New England Rowing Championships 2015 JV 8+")
 Head of the Charles, 2013, Collegiate 8+ (2 Seat)
 ![HOCR](../assets/img/HOCR.png "Head of the Charles 2014 Collegiate 8+")
+
+## SCUBA
+I am a PADI certified open water SCUBA diver with dry suit experience. Two of the most amazing experiences in my life were a night dive with manta rays in Kona, Hawaii and diving between the European and American plates in Silfra, Iceland.
+![Mantas](../assets/img/mantas.jpg "Night dive with manta rays")
+![Silfra](../assets/img/silfra.jpg "Diving in-between tectonic plates in Silfra, Iceland")
+
