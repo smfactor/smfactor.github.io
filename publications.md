@@ -33,7 +33,7 @@ I have been an anonymous referee for The Astrophysical Journal.
 ## Posters and Presentations
 * Kernel-Phase Interferometry for Detection of Close in Companions: Binary Demographics of Brown Dwarfs from Birth to Maturity (talk number 432.04D<!--, [abstract](https://ui.adsabs.harvard.edu/abs/2024AAS...24343204F)-->), *243rd Meeting of the American Astronomical Society*, January 2024, New Orleans, LA
 * HST Kernel-Phase Interferometry: Binary Brown Dwarf Demographics from Birth to Maturity ([poster](/assets/pubs/GMTposter.pdf)), *Exoplanets: Asmospheres to Architectures, 9th Annual GMT Community Science Meeting*, September 2023, Washington, DC
-* Kernel-Phase Interferometry for Detection of Close in Companions: Binary Demographics of Brown Dwarfs from Birth to Maturity ([talk](https://youtu.be/8vgoTbuspWs)), *Ph.D. Defense Talk*, July 2023, Austin, TX
+* Kernel-Phase Interferometry for Detection of Close in Companions: Binary Demographics of Brown Dwarfs from Birth to Maturity ([talk](https://youtu.be/8vgoTbuspWs)), *Ph.D. Defense*, July 2023, Austin, TX
 * HST Kernel-Phase Interferometry: Field-Age Brown Dwarf Population Demographics ([poster](/assets/pubs/CS21Poster.pdf)), *21st Cambridge Workshops of Cool Stars, Stellar Systems and the Sun*, July 2022, Toulouse, France 
 * A NICMOS Kernel-Phase Interferometry Survey of Brown-Dwarf Binary Demographics (invited talk), *CfA Stars & Planets Seminar*, December 2021, Center for Astrophysics, Cambridge, MA
 * A NICMOS Kernel-Phase Interferometry Survey of Brown-Dwarf Binary Demographics (invited talk), *Stars and Planets Lunch And Talks (SPLAT)*, November 2021, Institute for Astronomy, Manoa, HI
