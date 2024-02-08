@@ -5,11 +5,13 @@ subtitle:
 ---
 {% include mathjs %}
 
-My industry resume can be found [here](/assets/pubs/resume.pdf). My peer reviewed publications and presentations are listed below. For more information, see my complete [CV](/assets/pubs/CV.pdf) or my publications on [ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PHY&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cond-mat&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-lat&arxiv_sel=hep-ph&arxiv_sel=hep-th&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=nucl-th&arxiv_sel=physics&arxiv_sel=quant-ph&arxiv_sel=q-bio&sim_query=YES&ned_query=YES&adsobj_query=YES&aut_logic=OR&obj_logic=OR&author=Factor%2C+Samuel&object=&start_mon=&start_year=&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=200&start_nr=1&jou_pick=ALL&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=SCORE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1) or [Google Scholar](https://scholar.google.com/citations?user=Z2CCopsAAAAJ&hl=en).
+My industry resume can be found [here](/assets/pubs/resume.pdf). 
 
-Check out my paper summaries on [astrobites.org](https://astrobites.org/author/sfactor/).
+My peer reviewed publications and presentations are listed below. For more information, see my complete [CV](/assets/pubs/CV.pdf) or my publications on [ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&db_key=PHY&db_key=PRE&qform=AST&arxiv_sel=astro-ph&arxiv_sel=cond-mat&arxiv_sel=cs&arxiv_sel=gr-qc&arxiv_sel=hep-ex&arxiv_sel=hep-lat&arxiv_sel=hep-ph&arxiv_sel=hep-th&arxiv_sel=math&arxiv_sel=math-ph&arxiv_sel=nlin&arxiv_sel=nucl-ex&arxiv_sel=nucl-th&arxiv_sel=physics&arxiv_sel=quant-ph&arxiv_sel=q-bio&sim_query=YES&ned_query=YES&adsobj_query=YES&aut_logic=OR&obj_logic=OR&author=Factor%2C+Samuel&object=&start_mon=&start_year=&end_mon=&end_year=&ttl_logic=OR&title=&txt_logic=OR&text=&nr_to_return=200&start_nr=1&jou_pick=ALL&ref_stems=&data_and=ALL&group_and=ALL&start_entry_day=&start_entry_mon=&start_entry_year=&end_entry_day=&end_entry_mon=&end_entry_year=&min_score=&sort=SCORE&data_type=SHORT&aut_syn=YES&ttl_syn=YES&txt_syn=YES&aut_wt=1.0&obj_wt=1.0&ttl_wt=0.3&txt_wt=3.0&aut_wgt=YES&obj_wgt=YES&ttl_wgt=YES&txt_wgt=YES&ttl_sco=YES&txt_sco=YES&version=1) or [Google Scholar](https://scholar.google.com/citations?user=Z2CCopsAAAAJ&hl=en).
 
-Check out my answers and ask your own question at [askanastronomer.org](http://askanastronomer.org/byauthor/?author=Sam+Factor).
+I was a staff writer for astrobites.org, you can find my paper summaries [here](https://astrobites.org/author/sfactor/).
+
+Check out my answers on [askanastronomer.org](http://askanastronomer.org/byauthor/?author=Sam+Factor).
 
 ## Publications
 I have been an anonymous referee for The Astrophysical Journal.
@@ -29,7 +31,7 @@ I have been an anonymous referee for The Astrophysical Journal.
 * N. Bender, **S. Factor**, J. D. Bodyfelt, H. Ramezani, D. N. Christodulides, F. M Ellis, and T. Kottos, "[Observation of asymmetric transport in structures with active nonlinearities](https://ui.adsabs.harvard.edu/abs/2013PhRvL.110w4101B)," *Phys. Rev. Lett.*, vol. 110, p. 234101, June 2013
 
 ## Posters and Presentations
-* Kernel-Phase Interferometry for Detection of Close in Companions: Binary Demographics of Brown Dwarfs from Birth to Maturity (talk number 432.04D), *243rd Meeting of the American Astronomical Society*, January 2024, New Orleans, LA
+* Kernel-Phase Interferometry for Detection of Close in Companions: Binary Demographics of Brown Dwarfs from Birth to Maturity (talk number 432.04D<!--, [abstract](https://ui.adsabs.harvard.edu/abs/2024AAS...24343204F)-->), *243rd Meeting of the American Astronomical Society*, January 2024, New Orleans, LA
 * HST Kernel-Phase Interferometry: Binary Brown Dwarf Demographics from Birth to Maturity ([poster](/assets/pubs/GMTposter.pdf)), *Exoplanets: Asmospheres to Architectures, 9th Annual GMT Community Science Meeting*, September 2023, Washington, DC
 * HST Kernel-Phase Interferometry: Field-Age Brown Dwarf Population Demographics ([poster](/assets/pubs/CS21Poster.pdf)), *21st Cambridge Workshops of Cool Stars, Stellar Systems and the Sun*, July 2022, Toulouse, France 
 * A NICMOS Kernel-Phase Interferometry Survey of Brown-Dwarf Binary Demographics (invited talk), *CfA Stars & Planets Seminar*, December 2021, Center for Astrophysics, Cambridge, MA
