@@ -42,7 +42,7 @@ Head of the Charles, 2013, Collegiate 8+ (2 Seat)
 ![HOCR](../assets/img/HOCR.png "Head of the Charles 2014 Collegiate 8+")
 
 ## SCUBA
-I am a PADI certified open water SCUBA diver with dry suit experience. Two of the most amazing experiences in my life were a night dive with manta rays in Kona, Hawaii and diving between the European and American plates in Silfra, Iceland.
+I am a PADI certified open water SCUBA diver with dry suit experience (28 dives, 20 hours). Two of the most amazing experiences in my life were a night dive with manta rays in Kona, Hawaii and diving between the European and American plates in Silfra, Iceland.
 ![Mantas](../assets/img/mantas.jpg "Night dive with manta rays")
 ![Silfra](../assets/img/silfra.jpg "Diving in-between tectonic plates in Silfra, Iceland")
 
