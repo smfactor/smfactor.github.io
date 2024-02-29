@@ -42,7 +42,7 @@ I then conducted a demographic analysis of this catalogue to infer the underlyin
 
 ### Young Low Mass Binaries in Taurus and Upper Scorpius (Factor & Kraus in prep.)
 
-The final project in my dissertation was to apply a modified version of the same kernel-phase interferometry pipeline to ACS/HRC imaging of young very low mass objects in Taurus and Upper Scorpius to search for newly formed planets. We have detected a few (preliminary) new candidate companions and performed the same demographic analysis as above to this young population. We then compared the young population to the field and find an excess of young wide separation companions, indicating dynamical evolution significantly sculpts the population. A publication on this work is in prep and was supported by cycle 29 HST program AR-16612 which I am PI of. 
+The final project in my dissertation was to apply a modified version of the same kernel-phase interferometry pipeline to ACS/HRC imaging of young very low mass objects in Taurus and Upper Scorpius to search for newly formed planets. This is the first time that KPI has been applied to observations at visible wavelengths. We have detected a few (preliminary) new candidate companions and performed the same demographic analysis as above to this young population. We then compared the young population to the field and find an excess of young wide separation companions, indicating dynamical evolution significantly sculpts the population. A publication on this work is in prep and was supported by cycle 29 HST program AR-16612 which I am PI of. 
 
 # Master's thesis at Wesleyan:
 
