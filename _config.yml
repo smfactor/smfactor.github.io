@@ -57,15 +57,17 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "smfactor0@gmail.com"
+  linkedin: samuelfactor
+  github: smfactor
+  ORCID: 0000-0002-8332-8516
+  google-scholar: citations?user=Z2CCopsAAAAJ
+  twitter: smfactor0
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: deanattali
-  github: smfactor
-  twitter: smfactor0
 # patreon: DeanAttali
 # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: samuelfactor
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -79,8 +81,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-  ORCID: 0000-0002-8332-8516
-  google-scholar: citations?user=Z2CCopsAAAAJ
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
