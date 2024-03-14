@@ -5,9 +5,9 @@ subtitle:
 ---
 {% include mathjs %}
 
-My industry resume can be found [here](/assets/pubs/resume.pdf). 
+My industry resume can be found [here](/assets/pubs/resume.pdf) while my accademic CV can be found [here](/assets/pubs/CV.pdf).
 
-My peer reviewed publications and presentations are listed below. For more information, see my complete [CV](/assets/pubs/CV.pdf) or my publications on [ADS](https://ui.adsabs.harvard.edu/public-libraries/qPvFlClMRy6j1c9XXvvrLw) or [Google Scholar](https://scholar.google.com/citations?user=Z2CCopsAAAAJ&hl=en).
+My peer reviewed publications and presentations are listed below. For more information see my publications on [ADS](https://ui.adsabs.harvard.edu/public-libraries/qPvFlClMRy6j1c9XXvvrLw) or [Google Scholar](https://scholar.google.com/citations?user=Z2CCopsAAAAJ&hl=en).
 
 I was a staff writer for astrobites.org, you can find my paper summaries [here](https://astrobites.org/author/sfactor/).
 
