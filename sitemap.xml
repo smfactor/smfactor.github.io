@@ -1,37 +1,228 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-			   <?xml-stylesheet type="text/xsl" href="stylesheet.xslt"?>
 
-                     
+<url>
+  <loc>https://smfactor.github.io/</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/research/</loc>
+  <lastmod>2024-03-18T18:57:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/publications/</loc>
+  <lastmod>2024-03-18T18:57:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/blog/</loc>
+  <lastmod>2024-03-18T18:57:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/aboutme/</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/assets/pubs/resume.pdf</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/assets/pubs/CV.pdf</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/assets/pubs/GMTposter.pdf</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/assets/pubs/CS21Poster.pdf</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/assets/pubs/CS20p5Poster.pdf</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/assets/pubs/ESSIVPoster.pdf</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/assets/pubs/CS20Poster.pdf</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/assets/pubs/SPF2Poster.pdf</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/assets/pubs/AASPoster.pdf</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/assets/pubs/git_GSPS_11-04-16.pdf</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/assets/pubs/SSWposter.pdf</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/assets/pubs/WesPoster2.pdf</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/assets/pubs/WesPoster.pdf</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2019-11-12-the-slowly-cooling-white-dwarfs-who-say-ne/</loc>
+  <lastmod>2024-03-18T18:57:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2019-09-27-extreme-solar-systems-iv/</loc>
+  <lastmod>2024-03-18T18:57:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2019-08-08-moonetesimals-from-nondetections/</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2019-03-22-astro2020/</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2019-02-11-disk-on-side/</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/blog/posts/page2/</loc>
+  <lastmod>2024-03-18T18:57:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/tags/</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2018-11-07-oumuamua/</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2018-09-21-directly-measuring-the-mass-of-beta-pic-b/</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2018-08-03-coolstars20/</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2018-06-25-spie-from-non-instrumentalist/</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2018-05-16-a-classic-optics-experiment-in-space-with-asteroids-and-agns/</loc>
+  <lastmod>2024-03-18T18:57:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/blog/posts/page3/</loc>
+  <lastmod>2024-03-18T18:57:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2018-04-06-statically-confirming-an-exoplanet-not-so-fast/</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2018-02-27-spiral-arms-driven-by-companion/</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2018-01-18-new-directly-imaged-planet/</loc>
+  <lastmod>2024-03-18T18:57:38+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2016-02-29-planets-from-gas-and-dust/</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://smfactor.github.io/2015-11-20-can-we-create-a-magnetic-field-for-mars/</loc>
+  <lastmod>2024-03-18T18:57:39+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.41</priority>
+</url>
 
-			    <urlset   
-			    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"   
-			    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
-                      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"   
-			    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd"   
-			    >
-<url><loc>https://smfactor.github.io</loc></url>
-<url><loc>https://smfactor.github.io/</loc></url>
-<url><loc>https://smfactor.github.io/publications/</loc></url>
-<url><loc>https://smfactor.github.io/blog/</loc></url>
-<url><loc>https://smfactor.github.io/research/</loc></url>
-<url><loc>https://smfactor.github.io/aboutme/</loc></url>
-<url><loc>https://smfactor.github.io/assets/pubs/resume.pdf</loc></url>
-<url><loc>https://smfactor.github.io/assets/pubs/CV.pdf</loc></url>
-<url><loc>https://smfactor.github.io/2015-11-20-can-we-create-a-magnetic-field-for-mars/</loc></url>
-<url><loc>https://smfactor.github.io/2016-02-29-planets-from-gas-and-dust/</loc></url>
-<url><loc>https://smfactor.github.io/2018-01-18-new-directly-imaged-planet/</loc></url>
-<url><loc>https://smfactor.github.io/2018-02-27-spiral-arms-driven-by-companion/</loc></url>
-<url><loc>https://smfactor.github.io/2018-04-06-statically-confirming-an-exoplanet-not-so-fast/</loc></url>
-<url><loc>https://smfactor.github.io/2018-05-16-a-classic-optics-experiment-in-space-with-asteroids-and-agns/</loc></url>
-<url><loc>https://smfactor.github.io/2018-06-25-spie-from-non-instrumentalist/</loc></url>
-<url><loc>https://smfactor.github.io/2018-08-03-coolstars20/</loc></url>
-<url><loc>https://smfactor.github.io/2018-09-21-directly-measuring-the-mass-of-beta-pic-b/</loc></url>
-<url><loc>https://smfactor.github.io/2018-11-07-oumuamua/</loc></url>
-<url><loc>https://smfactor.github.io/2019-02-11-disk-on-side/</loc></url>
-<url><loc>https://smfactor.github.io/2019-03-22-astro2020/</loc></url>
-<url><loc>https://smfactor.github.io/2019-08-08-moonetesimals-from-nondetections/</loc></url>
-<url><loc>https://smfactor.github.io/2019-09-27-extreme-solar-systems-iv/</loc></url>
-<url><loc>https://smfactor.github.io/2019-11-12-the-slowly-cooling-white-dwarfs-who-say-ne/</loc></url>
+
 </urlset>
-
