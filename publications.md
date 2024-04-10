@@ -5,13 +5,11 @@ subtitle:
 ---
 {% include mathjs %}
 
-My industry resume can be found [here](/assets/pubs/resume.pdf) while my accademic CV can be found [here](/assets/pubs/CV.pdf).
+Here are links to my industry [resume](/assets/pubs/resume.pdf) and my accademic [CV](/assets/pubs/CV.pdf).
 
 My peer reviewed publications and presentations are listed below. For more information see my publications on [ADS](https://ui.adsabs.harvard.edu/public-libraries/qPvFlClMRy6j1c9XXvvrLw) or [Google Scholar](https://scholar.google.com/citations?user=Z2CCopsAAAAJ&hl=en).
 
-I was a staff writer for astrobites.org, you can find my paper summaries [here](https://astrobites.org/author/sfactor/).
-
-Check out my answers on [askanastronomer.org](http://askanastronomer.org/byauthor/?author=Sam+Factor).
+I was a staff writer for astrobites.org, you can find my paper summaries [here](https://astrobites.org/author/sfactor/). You can also see my answers on [askanastronomer.org](http://askanastronomer.org/byauthor/?author=Sam+Factor).
 
 ## Publications
 I have been an anonymous referee for The Astrophysical Journal.
