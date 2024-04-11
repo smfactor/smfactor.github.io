@@ -2,6 +2,7 @@
 layout: page
 title: Research
 subtitle: Exoplanets and Planet Formation
+mathjax: true
 cover-img:
   - "/assets/img/big-imgs/heic0917aasc.jpg" : "The Orion ''Proplyds'', Credit: NASA/ESO"
   - "/assets/img/big-imgs/heic0917absc.jpg" : "Orion, Credit: NASA/ESO"
@@ -10,7 +11,6 @@ cover-img:
   - "/assets/img/big-imgs/SMA.jpg" : "SMA, Credit: CfA"
   - "/assets/img/big-imgs/JWSTDI.jpg" : "JWST image of HIP 65426 b, Credit: NASA/ESA/CSA, A. Carter (UCSC), the ERS 1386 team, and A. Pagan (STScI)"
 ---
-{% include mathjs %}
 
 # Current Postoctoral Work at UT Austin:
 
