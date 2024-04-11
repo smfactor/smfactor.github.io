@@ -2,6 +2,7 @@
 layout: page
 title: "Samuel M. Factor"
 subtitle: "Postdoctoral Fellow, Department of Astronomy, The University of Texas at Austin"
+mathjax: true
 cover-img:
   - "/assets/img/big-imgs/heic0917aasc.jpg" : "The Orion ''Proplyds'' , Credit: NASA/ESO"
   - "/assets/img/big-imgs/heic0917absc.jpg" : "Orion, Credit: NASA/ESO"
@@ -10,7 +11,6 @@ cover-img:
   - "/assets/img/big-imgs/SMA.jpg" : "SMA, Credit: CfA"
   - "/assets/img/big-imgs/JWSTDI.jpg" : "JWST image of HIP 65426 b, Credit: NASA/ESA/CSA, A. Carter (UCSC), the ERS 1386 team, and A. Pagan (STScI)"
 ---
-{% include mathjs %}
 
 I am a highly motivated and independent researcher seeking to transition into industry. I aim to leverage broad expertise in space-based observational techniques, novel image processing algorithms, statistical data analysis, physical modeling, and lab experience acquired through a Ph.D. in Astronomy. I learn quickly and can apply and communicate new knowledge efficiently and effectively.
 

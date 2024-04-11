@@ -2,8 +2,8 @@
 layout: page
 title: Publications 
 subtitle:
+mathjax: true
 ---
-{% include mathjs %}
 
 Here are links to my industry [resume](/assets/pubs/resume.pdf) and my accademic [CV](/assets/pubs/CV.pdf).
 
