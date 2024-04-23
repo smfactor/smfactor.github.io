@@ -11,12 +11,13 @@ My peer reviewed publications and presentations are listed below. For more infor
 
 You can find videos of my public outreach talks at Astronomy on Tap, Austin TX on the [about me](/aboutme) page.
 
-I was a staff writer for astrobites.org, you can find my paper summaries [here](https://astrobites.org/author/sfactor/). You can also see my answers on [askanastronomer.org](http://askanastronomer.org/byauthor/?author=Sam+Factor).
+I was a staff writer for astrobites.org in 2018-2019, you can find my paper summaries [here](https://astrobites.org/author/sfactor/). You can also see my answers on [askanastronomer.org](http://askanastronomer.org/byauthor/?author=Sam+Factor).
 
 
 ## Publications
 I have been an anonymous referee for The Astrophysical Journal.
 
+1. **S. Factor**, 2023, *Ph.D. Dissertation*, "[Kernel-phase interferometry for detection of close in companions: binary demographics of brown dwarfs from birth to maturity](https://search.lib.utexas.edu/permalink/01UTAU_INST/9e1640/alma991058743782406011)" 
 1. **S. Factor** & A. Kraus, 2023, *The Astronomical Journal*, 165, 130 "[NICMOS Kernel-Phase Interferometry II: Demographics of Nearby Brown Dwarfs](https://ui.adsabs.harvard.edu/abs/2023AJ....165..130F)" 
 1. **S. Factor** & A. Kraus, 2022, *The Astronomical Journal*, 164, 244 "[NICMOS Kernel-Phase Interferometry I: Catalogue of Brown Dwarfs Observed in F110W and F170M](https://ui.adsabs.harvard.edu/abs/2022AJ....164..244F)"
 1. **S. Factor**, A. M. Hughes, K. Flaherty et al., 2017, *The Astronomical Journal*, 153, 233 "[ALMA Observations of Asymmetric Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula](https://ui.adsabs.harvard.edu/abs/2017AJ....153..233F)"
