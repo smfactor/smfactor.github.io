@@ -14,7 +14,13 @@ I help organize [Astronomy on Tap ATX](https://www.aotatx.org/), a monthly free 
 
 I also presented the "Astronomy in the News" section during AoT ATX [#43](https://youtu.be/xYzXdMva7AI), [#45](https://youtu.be/XgIGDIKunBk), [#56](https://youtu.be/KIva_gwkyBg), and became an official cohost starting at show #75.
 
-Check out an interview I did with the Wesleyan Newsletter [here](http://newsletter.blogs.wesleyan.edu/2015/05/19/samfactor/).
+## Interviews
+
+UT Austin Giving [profile](https://giving.utexas.edu/starstruck/)
+
+UT Austin College of Natural Sciences [Nexus Point](https://cns.utexas.edu/news/physics-grad-student-sam-factor-uses-astrophysics-to-study-planet-formation) video interview
+
+Interview with [The Wesleyan Connection](http://newsletter.blogs.wesleyan.edu/2015/05/19/samfactor/)
 
 ## Astrophotography
 
