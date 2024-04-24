@@ -18,7 +18,9 @@ I also presented the "Astronomy in the News" section during AoT ATX [#43](https:
 
 UT Austin Giving [profile](https://giving.utexas.edu/starstruck/)
 
-UT Austin College of Natural Sciences [Nexus Point](https://cns.utexas.edu/news/research/nexus-point-samuel-factor) video interview
+UT Austin College of Natural Sciences [Nexus Point](https://cns.utexas.edu/news/research/nexus-point-samuel-factor) video interview about the first images from JWST:
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/731181633?h=69bea7b7f9" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 Interview with [The Wesleyan Connection](http://newsletter.blogs.wesleyan.edu/2015/05/19/samfactor/)
 
