@@ -18,7 +18,7 @@ I also presented the "Astronomy in the News" section during AoT ATX [#43](https:
 
 UT Austin Giving [profile](https://giving.utexas.edu/starstruck/)
 
-UT Austin College of Natural Sciences [Nexus Point](https://cns.utexas.edu/news/physics-grad-student-sam-factor-uses-astrophysics-to-study-planet-formation) video interview
+UT Austin College of Natural Sciences [Nexus Point](https://cns.utexas.edu/news/research/nexus-point-samuel-factor) video interview
 
 Interview with [The Wesleyan Connection](http://newsletter.blogs.wesleyan.edu/2015/05/19/samfactor/)
 
