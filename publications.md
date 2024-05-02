@@ -31,6 +31,7 @@ I have been an anonymous referee for The Astrophysical Journal.
 3. J. M. Lee, **S. Factor**, Z. Lin, I. Vitebskiy, F. Ellis, T. Kottos, "[Reconfigurable directional lasing modes in cavities with generalized $$\mathcal{P}\tilde{\mathcal{T}}$$ Symmetry](https://ui.adsabs.harvard.edu/abs/2014PhRvL.112y3902L)," *Phys. Rev. Lett.*, vol 112, p. 253902, Jun 2014
 2. M. Chitsazi, **S. Factor**, J. Schindler, H. Ramezani, F. M. Ellis and T. Kottos, "[Experimental observation of lasing shutdown via asymmetric gain](https://ui.adsabs.harvard.edu/abs/2014PhRvA..89d3842C)," *Phys. Rev. A*, vol. 89, p. 043842, Apr 2014
 1. N. Bender, **S. Factor**, J. D. Bodyfelt, H. Ramezani, D. N. Christodulides, F. M Ellis, and T. Kottos, "[Observation of asymmetric transport in structures with active nonlinearities](https://ui.adsabs.harvard.edu/abs/2013PhRvL.110w4101B)," *Phys. Rev. Lett.*, vol. 110, p. 234101, June 2013
+{: reversed="reversed"}
 
 ## Posters and Presentations
 18. Kernel-Phase Interferometry for Detection of Close in Companions: Binary Demographics of Brown Dwarfs from Birth to Maturity (talk number 432.04D, [abstract](https://ui.adsabs.harvard.edu/abs/2024AAS...24343204F)), *243rd Meeting of the American Astronomical Society*, January 2024, New Orleans, LA
@@ -51,4 +52,5 @@ I have been an anonymous referee for The Astrophysical Journal.
 3. Kernel-Phase Interferometry for Super-Resolution Detection of Faint Companions ([poster](/assets/pubs/SSWposter.pdf)), [*Sagan Exoplanet Summer Workshop*](http://nexsci.caltech.edu/workshop/2016), July 2016, Pasadena, CA
 2. ALMA Observations of Molecular Gas Emission from a Protoplanetary Disk in the Orion Nebula Cluster ([poster](/assets/pubs/WesPoster2.pdf)), *Frank N. Bash Symposium*, October 2015, Austin, TX
 1. Characterizing a Young Protoplanetary Disk in the Orion Nebula Cluster ([poster](/assets/pubs/WesPoster.pdf) number 349.06, [abstract](http://ui.adsabs.harvard.edu/abs/2015AAS...22534906F)), *225th Meeting of the American Astronomical Society*, January 2015, Seattle, WA
+{: reversed="reversed"}
 
