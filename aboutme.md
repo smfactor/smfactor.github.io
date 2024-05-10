@@ -16,6 +16,8 @@ I also presented the "Astronomy in the News" section during AoT ATX [#43](https:
 
 ## Interviews
 
+Quoted in an article in Popular Science about ['safe mode'](https://www.popsci.com/science/safe-mode-space-telescope/) on space telescopes.
+
 UT Austin Giving [profile](https://giving.utexas.edu/starstruck/)
 
 UT Austin College of Natural Sciences [Nexus Point](https://cns.utexas.edu/news/research/nexus-point-samuel-factor) video interview about the first images from JWST:
