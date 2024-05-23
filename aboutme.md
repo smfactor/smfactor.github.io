@@ -16,7 +16,7 @@ I also presented the "Astronomy in the News" section during AoT ATX [#43](https:
 
 ## Interviews
 
-Quoted in an article in Popular Science about ['safe mode'](https://www.popsci.com/science/safe-mode-space-telescope/) on space telescopes.
+Quoted in an article in Popular Science about titled [How ‘safe mode’ protects space telescopes like Hubble and TESS](https://www.popsci.com/science/safe-mode-space-telescope/).
 
 UT Austin Giving [profile](https://giving.utexas.edu/starstruck/)
 
