@@ -16,6 +16,10 @@ I also presented the "Astronomy in the News" section during AoT ATX [#43](https:
 
 ## Interviews
 
+Interviewed for The Aerospace Corporation's Space Policy Show as part of their "How Stuff Works" series. This episode was on Resiliant Skies, discussing the intersection of astronomy, satellites, and dark and quiet skies.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dy-mYEKdqsw?si=4L-F4gQAk6PooKEr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 Quoted in an article in Popular Science about titled [How ‘safe mode’ protects space telescopes like Hubble and TESS](https://www.popsci.com/science/safe-mode-space-telescope/).
 
 UT Austin Giving [profile](https://giving.utexas.edu/starstruck/)
